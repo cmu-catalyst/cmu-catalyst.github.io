@@ -1,15 +1,15 @@
 # targets that aren't filenames
-.PHONY: all clean deploy build serve
+.PHONY: all clean deploy build serve pub
 
-all: build
+all: build pub
 
-BIBBLE = bibble
+BIBBLE = python3 -m bibble.main
 
-_includes/pubs.html: bib/pubs.bib bib/publications.tmpl
+pub: bib/pubs.bib bib/publications.tmpl
 	mkdir -p _includes
-	$(BIBBLE) $+ > $@
+	$(BIBBLE) $+ > _includes/pubs.html
 
-build: _includes/pubs.html
+build: pub
 	jekyll build
 
 # you can configure these at the shell, e.g.:

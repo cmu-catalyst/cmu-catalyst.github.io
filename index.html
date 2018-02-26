@@ -11,10 +11,10 @@ role-tables:
   - roles: [grad]
     width: 8
     image: true
-- - roles: [collab, ugrad, ugrad-alum]
+- - roles: [collab, ugrad]
     width: 5
-    image: false
-  - roles: [alum]
+    image: true
+  - roles: [ugrad-alum, alum]
     width: 7
     image: false
 
@@ -22,19 +22,13 @@ role-tables:
 
 <div class="jumbotron">
     <p>
-        <b>Saml</b> is an inter-disciplinary machine learning research group exploring questions which
-        cross multiple layers of the system stack from frameworks,
-        specialized hardware, programming languages and applications.
-        We are part of the <a href="http://www.cs.washington.edu/">Paul G. Allen School of Computer Science & Engineering</a>
-        at the <a href="http://www.washington.edu/">University of Washington</a>.
-        Our group is a collboration between researchers from <a href="https://sampa.cs.washington.edu/">Sampa</a>,
-        <a href=https://syslab.cs.washington.edu/>Syslab</a>, <a href="http://mode.cs.washington.edu/">MODE</a>,
-        and <a href="http://uwplse.org">PLSE</a>.
-        <!-- We also collaborate outside of UW with industry partners,
-        and other instituions. -->
+      <b>Catalyst</b> is an interdisciplinary machine learning and systems research group
+      exploring problems to automate learning systems.
+      Our research spanning multiple layers of the machine learning and system stack.
     </p>
 </div>
 
+<!--
 <section>
     <h2>News</h2>
     <ul class="news list-unstyled">
@@ -50,6 +44,7 @@ role-tables:
         </p>
     {% endif %}
 </section>
+--->
 
 <section>
     <h2>Research</h2>
@@ -65,6 +60,14 @@ role-tables:
             {% endif %}
         {% endfor %}
     </div>
+</section>
+
+<section>
+    <h2>Mission</h2>
+    <b>Catalyst</b> (CMU automated learning system lab) is  a joint research group
+    across the area of machine learning, systems and computer architectures.
+    Our mission is to automate cross stack optimizations and enable
+    intelligence everywhere.
 </section>
 
 <div id="people">
