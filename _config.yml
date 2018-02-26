@@ -1,10 +1,10 @@
-name: Awesome Research Group
-url: http://awesome.example.edu
+name: SAML
+url: http://uwsaml.github.io # Update to be CS web address
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
-# colorize code snippets with the pygments module
-highlighter: pygments
+# Colorize code snippets with the rogue module if we want to deploy on GH.
+highlighter: rogue
 
 # The path structure for blog posts.
 permalink: /blog/:year/:month/:day/:title.html
