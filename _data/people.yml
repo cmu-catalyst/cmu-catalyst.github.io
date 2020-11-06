@@ -26,6 +26,20 @@ zhihao:
 # Grads
 # Alphabetical order
 
+byungsoj:
+    display_name: "Byungsoo Jeon"
+    webpage: "https://scholar.google.com/citations?user=_6ua4rEAAAAJ&hl=en"
+    github: MadFunMaker
+    role: grad
+    image: /img/people/byungsoj.jpg
+
+
+ejaasaari:
+    display_name: "Elias Jääsaari"
+    webpage: "https://github.com/ejaasaari"
+    github: ejaasaari
+    role: grad
+    image: /img/people/ejaasaari.jpg
 
 
 # Alums
