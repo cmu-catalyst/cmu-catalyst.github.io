@@ -42,6 +42,13 @@ ejaasaari:
     image: /img/people/ejaasaari.jpg
 
 
+ppf:
+    display_name: "Pratik Fegade"
+    webpage: "https://pratikfegade.github.io/"
+    github: pratikfegade
+    role: grad
+    image: /img/people/pratikfegade.jpg
+
 # Alums
 # The order is: PhD/postdoc by year; MS by year; BS by year
 
