@@ -15,7 +15,7 @@ TASO employs a cost-based search algorithm to explore the space, and automatical
 TASO outperforms the graph optimizers in existing deep learning frameworks by [up to 3x](http://theory.stanford.edu/~aiken/publications/papers/sosp19.pdf).
 
 {:center: style="text-align: center"}
-![image](/img/taso/inference.png){: width="95%"}
+![image](/img/taso/inference.png){: width="80%"}
 {:center}
 
 TASO directly optimizes any pre-trained DNN models in [ONNX](https://onnx.ai), [TensorFlow](https://www.tensorflow.org/guide/saved_model), and [PyTorch](https://pytorch.org/docs/stable/onnx.html) graph formats.
@@ -25,7 +25,7 @@ TASO supports exporting the optimized computation graphs to ONNX, which can be d
 For example, the following figures shows how TASO automatically performs a series of non-trivial transformations and improves the inference performance of a ResNet module by 1.3x on a V100 GPU.
 
 {:center: style="text-align: center"}
-![image](/img/taso/graph_subst.png){: width="95%"}
+![image](/img/taso/graph_subst.png){: width="90%"}
 {:center}
 
 
