@@ -2,7 +2,7 @@
 title: FlexFlow
 
 description: |
-    FlexFlow: Automatically Discovering Fast Parallelization Strategies for Distributed DNN Training
+    Automatically Discovering Fast Parallelization Strategies for Distributed DNN Training
 
 
 layout: project

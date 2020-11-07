@@ -2,11 +2,11 @@
 title: TASO
 
 description: |
-    FlexFlow: The Tensor Algebra SuperOptimizer for Deep Learning
+    The Tensor Algebra SuperOptimizer for Deep Learning
 
 
 layout: project
-last-updated: 2018-08-30
+last-updated: 2017-08-30
 ---
 
 [TASO](https://github.com/jiazhihao/TASO) optimizes the computation graphs of DNN models using automatically generated and verified graph transformations.
