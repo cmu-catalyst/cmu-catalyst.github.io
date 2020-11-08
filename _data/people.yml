@@ -1,5 +1,5 @@
 # Faculty
-# Alphabetical order
+# Alphabetical order last name
 
 tqchen:
     display_name: "Tianqi Chen"
@@ -9,6 +9,14 @@ tqchen:
     image: /img/people/tqchen.jpg
     bio: "Assistant Professor"
 
+gibbons:
+    display_name: "Phillip B. Gibbons"
+    webpage: "http://www.cs.cmu.edu/~gibbons/"
+    github: pbgibbons
+    role: faculty
+    image: /img/people/gibbons.jpg
+    bio: "Professor"
+
 zhihao:
     display_name: "Zhihao Jia"
     webpage: "https://cs.stanford.edu/~zhihao/"
@@ -17,6 +25,14 @@ zhihao:
     image: /img/people/jiazhihao.jpg
     bio: "Assistant Professor"
 
+mowry:
+    display_name: "Todd C. Mowry"
+    webpage: "https://www.toddcmowry.org/"
+    github: tcmowry
+    role: faculty
+    image: /img/people/mowry.jpg
+    bio: "Professor"
+
 
 # Postdocs/Collaborators
 
@@ -24,15 +40,14 @@ zhihao:
 # Alphabetical order
 
 # Grads
-# Alphabetical order
+# Alphabetical order last name
 
-byungsoj:
-    display_name: "Byungsoo Jeon"
-    webpage: "https://scholar.google.com/citations?user=_6ua4rEAAAAJ&hl=en"
-    github: MadFunMaker
+ppf:
+    display_name: "Pratik Fegade"
+    webpage: "https://pratikfegade.github.io/"
+    github: pratikfegade
     role: grad
-    image: /img/people/byungsoj.jpg
-
+    image: /img/people/pratikfegade.jpg
 
 ejaasaari:
     display_name: "Elias Jääsaari"
@@ -41,13 +56,13 @@ ejaasaari:
     role: grad
     image: /img/people/ejaasaari.jpg
 
-
-ppf:
-    display_name: "Pratik Fegade"
-    webpage: "https://pratikfegade.github.io/"
-    github: pratikfegade
+byungsoj:
+    display_name: "Byungsoo Jeon"
+    webpage: "https://scholar.google.com/citations?user=_6ua4rEAAAAJ&hl=en"
+    github: MadFunMaker
     role: grad
-    image: /img/people/pratikfegade.jpg
+    image: /img/people/byungsoj.jpg
+
 
 # Alums
 # The order is: PhD/postdoc by year; MS by year; BS by year
