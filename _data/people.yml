@@ -33,6 +33,13 @@ mowry:
     image: /img/people/mowry.jpg
     bio: "Professor"
 
+ameet:
+    display_name: "Ameet Talwalkar"
+    webpage: "https://www.cs.cmu.edu/~atalwalk/"
+    github: atalwalkar
+    role: faculty
+    image: /img/people/ameet.jpg
+    bio: "Assistant Professor"
 
 # Postdocs/Collaborators
 
