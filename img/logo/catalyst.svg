@@ -8,11 +8,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xml:space="preserve"
-   width="150mm"
-   height="38.259998mm"
+   width="170mm"
+   height="58.260002mm"
    version="1.1"
    style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-   viewBox="0 0 15000 3825.9998"
+   viewBox="0 0 17000 5826.0002"
    id="svg84"
    sodipodi:docname="catalyst.svg"
    inkscape:version="1.0.1 (1.0.1+r75)"><metadata
@@ -31,17 +31,19 @@
    inkscape:window-height="769"
    id="namedview86"
    showgrid="false"
-   fit-margin-top="0"
-   fit-margin-left="0"
-   fit-margin-right="0"
-   fit-margin-bottom="0"
+   fit-margin-top="10"
+   fit-margin-left="10"
+   fit-margin-right="10"
+   fit-margin-bottom="10"
    inkscape:zoom="1.7330208"
-   inkscape:cx="283.46456"
-   inkscape:cy="72.302361"
+   inkscape:cx="321.25983"
+   inkscape:cy="110.09763"
    inkscape:window-x="67"
    inkscape:window-y="27"
    inkscape:window-maximized="0"
-   inkscape:current-layer="svg84" />
+   inkscape:current-layer="svg84"
+   inkscape:document-rotation="0"
+   lock-margins="true" />
  <defs
    id="defs70">
   <style
@@ -56,7 +58,7 @@
  </defs>
  <g
    id="Layer_x0020_1"
-   transform="translate(-2500,-2587)">
+   transform="translate(-1500,-1587)">
   <metadata
    id="CorelCorpID_0Corel-Layer" />
   <rect
@@ -69,7 +71,7 @@
  </g>
  <g
    id="text"
-   transform="translate(-2500,-2587)">
+   transform="translate(-1500,-1587)">
   <metadata
    id="CorelCorpID_1Corel-Layer" />
   <path
@@ -79,7 +81,7 @@
  </g>
  <g
    id="logo"
-   transform="translate(-2500,-2587)">
+   transform="translate(-1500,-1587)">
   <metadata
    id="CorelCorpID_2Corel-Layer" />
   <path
