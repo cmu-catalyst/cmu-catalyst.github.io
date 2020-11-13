@@ -15,6 +15,6 @@ Cortex is an ongoing project that aims at building a compiler and runtime infras
 ![image](/img/cortex/overview.png){: width="80%"}
 {:center}
 
-## Publication
+## Publications
 
 * Pratik Fegade, Tianqi Chen, Phil Gibbons and Todd Mowry. [Cortex: A Compiler for Recursive Deep Learning Models](https://arxiv.org/abs/2011.01383). Under review.
