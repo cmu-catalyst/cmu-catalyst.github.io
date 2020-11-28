@@ -22,4 +22,4 @@ Performance of machine learning algorithms depends critically on identifying a g
 ## Publications
 * Liam Li, Kevin Jamieson, Afshin Rostamizadeh, Ekaterina Gonina, Moritz Hardt, Benjamin Recht, Ameet Talwalkar. [A System for Massively Parallel Hyperparameter Tuning](https://arxiv.org/abs/1810.05934). MLSys 2020.
 * Liam Li and Ameet Talwalkar. [A System for Massively Parallel Hyperparameter Tuning](https://arxiv.org/abs/1902.07638). UAI 2020.
-* Liam Li, Kevin Jamieson, Giulia DeSalvo , Afshin Rostamizadeh, Ameet Talwalkar. [Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization](https://jmlr.org/papers/volume18/16-558/16-558.pdf). JMLR 2018.
+* Liam Li, Kevin Jamieson, Giulia DeSalvo, Afshin Rostamizadeh, Ameet Talwalkar. [Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization](https://jmlr.org/papers/volume18/16-558/16-558.pdf). JMLR 2018.
