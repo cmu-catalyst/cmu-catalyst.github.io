@@ -12,7 +12,7 @@ last-updated: 2020-28-12
 Performance of machine learning algorithms depends critically on identifying a good set of hyperparameters. We focus on speeding up random search through adaptive resource allocation and early-stopping. We formulate hyperparameter optimization as a pure-exploration non-stochastic infinite-armed bandit problem where a predefined resource like iterations, data samples, or features is allocated to randomly sampled configurations. We introduce a novel algorithm, Hyperband, for this framework and analyze its theoretical properties, providing several desirable guarantees. Furthermore, we generalize Hyperband to the massively parallel setting via the asynchronous algorithm ASHA. Our extensive evaluation of Hyperband and ASHA on hundreds of hyperparameter optimization problems demonstrate its effectively relative to classical methods like grid and random search, as more recent methods like PBT, BOHB, and Google's Vizier platform.  Moreover, it is also a very strong baseline approach for modern neural architecture search benchmarking tasks.
 
 {:center: style="text-align: center"}
-![image](/img/hyperband/hyperband_visual.png){: width="80%"}
+![image](/img/hyperband/hyperband_visual.png){: width="50%"}
 {:center}
 
 ## Blogs
