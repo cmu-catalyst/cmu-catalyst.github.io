@@ -1,12 +1,12 @@
 ---
-title: Hyperband
+title: Testing
 
 description: |
-    Principled early-stopping approaches for hyperparameter optimization
+    TVM: An Automated End-to-End Optimizing Compiler for Deep Learning
 
 
 layout: project
-last-updated: 2020-28-12
+last-updated: 2020-10-31
 ---
 
-Performance
+Apache TVM stack is a unified optimization stack that will close the gap between the productivity-focused deep learning frameworks, and the performance- or efficiency-oriented hardware backends. The project contains the following components
