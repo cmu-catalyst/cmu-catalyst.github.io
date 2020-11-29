@@ -1,8 +1,8 @@
 ---
-title: Testing
+title: Hyperband and ASHA
 
 description: |
-    TVM: An Automated End-to-End Optimizing Compiler for Deep Learning
+    Principled early-stopping approaches for hyperparameter optimization
 
 
 layout: project
