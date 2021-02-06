@@ -74,6 +74,13 @@ byungsoj:
 # Alums
 # The order is: PhD/postdoc by year; MS by year; BS by year
 
+sheng:
+    display_name: "Sheng Xu"
+    webpage: "https://www.sheng-x.com/"
+    github: shengxu1
+    role: alumni
+    image: /img/people/shengx.jpg
+
 
 # Undergrads
 # Alphabetical order
