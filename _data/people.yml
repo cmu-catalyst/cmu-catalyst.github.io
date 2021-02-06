@@ -78,8 +78,9 @@ sheng:
     display_name: "Sheng Xu"
     webpage: "https://www.sheng-x.com/"
     github: shengxu1
-    role: alumni
+    role: alum
     image: /img/people/shengx.jpg
+    bio: "M.S, 2020. Now at AWS."
 
 
 # Undergrads
