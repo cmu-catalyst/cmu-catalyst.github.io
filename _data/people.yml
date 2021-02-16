@@ -93,6 +93,12 @@ peiyuanl:
     role: ugrad
     image: /img/people/peiyuanl.jpg
 
+xiaoyam:
+    display_name: "Michelle Ma"
+    webpage: "https://www.linkedin.com/in/michelle-ma-a67367157/"
+    github: xiaoyam
+    role: ugrad
+    image: /img/people/xiaoyam.jpg
 # Undergrad Alums
 # Alphabetical order
 
