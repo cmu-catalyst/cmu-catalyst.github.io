@@ -29,3 +29,11 @@ RSYNC := rsync --compress --recursive --checksum --itemize-changes --delete -e s
 
 deploy: clean build
 	$(RSYNC) _site/ $(DEPLOY_HOST):$(DEPLOY_PATH)
+
+DOCKER = docker run -ti -v $$(pwd -P):/srv/jekyll -p $(SERVE_PORT):$(SERVE_PORT) $$DOCKER_FLAGS jekyll/jekyll
+
+docker-build: pub
+	$(DOCKER) jekyll build
+
+docker-serve: _includes/pubs.html
+	$(DOCKER) jekyll serve --port $(SERVE_PORT) --host 0.0.0.0
