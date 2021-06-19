@@ -82,6 +82,15 @@ sheng:
     image: /img/people/shengx.jpg
     bio: "M.S, 2020. Now at AWS."
 
+poojan:
+    display_name: "Poojan Palwai"
+    webpage: "https://www.linkedin.com/in/poojan-palwai-79894b190/"
+    github: ppalwai2001
+    role: alum
+    image: /img/people/poojan.jpg
+    bio: "B.S, the class of 2023"
+
+
 
 # Undergrads
 # Alphabetical order
