@@ -71,6 +71,14 @@ byungsoj:
     image: /img/people/byungsoj.jpg
 
 
+bohanhou:
+    display_name: "Bohan Hou"
+    webpage: "https://www.linkedin.com/in/bohan-hou-809a4519b/"
+    github: spectrometerHBH
+    role: grad
+    image: /img/people/bohanhou.jpg
+
+
 # Alums
 # The order is: PhD/postdoc by year; MS by year; BS by year
 
