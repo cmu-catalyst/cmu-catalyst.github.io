@@ -17,7 +17,9 @@ roles:
   # - key: staff
   #   name: Staff
   - key: grad
-    name: Graduate Students
+    name: PhD Students
+  - key: masters
+    name: Masters Students
   - key: ugrad
     name: Undergraduate Students
   - key: alum
