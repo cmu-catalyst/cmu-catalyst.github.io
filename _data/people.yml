@@ -79,6 +79,12 @@ bohanhou:
 
 # Masters
 
+zhongyuchen:
+    display_name: "Zhongyu Chen"
+    webpage: "https://www.linkedin.com/in/zhongyu-chen-cs2020/"
+    role: masters
+    image: /img/people/zhongyuchen.jpg
+
 andrewgu:
     display_name: "Andrew Gu"
     webpage: "https://www.linkedin.com/in/~andrew/"
