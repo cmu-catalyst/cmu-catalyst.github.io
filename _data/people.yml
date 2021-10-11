@@ -77,6 +77,13 @@ bohanhou:
     role: grad
     image: /img/people/bohanhou.jpg
 
+mingkuangxu:
+    display_name: "Mingkuan Xu"
+    webpage: "https://mingkuan.taichi.graphics/"
+    github: mingkuanxu
+    role: grad
+    image: /img/people/mingkuanxu.jpg
+
 # Masters
 
 zhongyuchen:
