@@ -9,6 +9,14 @@ tqchen:
     image: /img/people/tqchen.jpg
     bio: "Assistant Professor"
 
+greg:
+    display_name: "Greg Ganger"
+    webpage: "http://users.ece.cmu.edu/~ganger/"
+    github: greg
+    role: faculty
+    image: /img/people/greg.jpg
+    bio: "Professor"
+
 gibbons:
     display_name: "Phillip B. Gibbons"
     webpage: "http://www.cs.cmu.edu/~gibbons/"
