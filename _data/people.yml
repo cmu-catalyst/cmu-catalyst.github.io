@@ -111,6 +111,12 @@ zhihaozhang:
     webpage: "https://jackfram.github.io"
     role: masters
     image: /img/people/zhihaozhang.jpg
+    
+bowenchen:
+    display_name: "Bowen Chen"
+    webpage: "https://www.linkedin.com/in/bowen-chen-2018/"
+    role: masters
+    image: /img/people/bowenchen.jpg
 
 # Alums
 # The order is: PhD/postdoc by year; MS by year; BS by year
