@@ -95,6 +95,12 @@ mingkuangxu:
 # Masters
 
 zhongyuchen:
+    display_name: "Neeraj Aggarwal"
+    webpage: "https://neerajaggarwal.com"
+    role: masters
+    image: /img/people/neerajaggarwal.jpg
+
+zhongyuchen:
     display_name: "Zhongyu Chen"
     webpage: "https://www.linkedin.com/in/zhongyu-chen-cs2020/"
     role: masters
