@@ -92,6 +92,18 @@ mingkuangxu:
     role: grad
     image: /img/people/mingkuanxu.jpg
 
+daiyaanarfeen:
+    display_name: "Daiyaan Arfeen"
+    webpage: "https://www.linkedin.com/in/daiyaanarfeen/"
+    role: grad
+    image: /img/people/daiyaanarfeen.jpg
+
+suhas:
+    display_name: "Suhas Jayaram Subramanya"
+    webpage: "https://suhasjs.github.io/"
+    role: grad
+    image: /img/people/suhas.png
+
 # Masters
 
 neerajaggarwal:
