@@ -135,6 +135,12 @@ bowenchen:
     webpage: "https://www.linkedin.com/in/bowen-chen-2018/"
     role: masters
     image: /img/people/bowenchen.jpg
+    
+zeyuwang:
+    display_name: "Zeyu Wang"
+    webpage: "https://www.linkedin.com/in/zeyu-wang-94094a191/"
+    role: masters
+    image: /img/people/zeyuwang.jpg
 
 # Alums
 # The order is: PhD/postdoc by year; MS by year; BS by year
