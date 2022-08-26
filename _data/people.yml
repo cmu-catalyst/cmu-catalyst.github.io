@@ -142,6 +142,12 @@ zeyuwang:
     role: masters
     image: /img/people/zeyuwang.jpg
 
+yuxuanzheng:
+    display_name: "Eric Zheng"
+    webpage: "https://www.linkedin.com/in/ericzheng1/"
+    role: masters
+    image: /img/people/yuxuanzheng.jpg
+
 # Alums
 # The order is: PhD/postdoc by year; MS by year; BS by year
 
