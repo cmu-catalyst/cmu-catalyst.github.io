@@ -49,6 +49,14 @@ ameet:
     image: /img/people/ameet.jpg
     bio: "Assistant Professor"
 
+ericxing:
+    display_name: "Eric Xing"
+    webpage: "https://www.cs.cmu.edu/~epxing/"
+    github: eric
+    role: faculty
+    image: /img/people/ericxing.jpg
+    bio: "Professor"
+
 # Postdocs/Collaborators
 
 
