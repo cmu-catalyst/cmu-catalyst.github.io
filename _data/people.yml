@@ -164,6 +164,12 @@ andrewgu:
     webpage: "https://www.linkedin.com/in/~andrew/"
     role: masters
     image: /img/people/andrewgu.jpeg
+
+balam:
+    display_name: "Balamurugan Marimuthu"
+    webpage: "https://balamurugan15.github.io/"
+    role: masters
+    image: /img/people/balam.jpg
     
 zeyuwang:
     display_name: "Zeyu Wang"
