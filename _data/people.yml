@@ -59,6 +59,13 @@ ericxing:
 
 # Postdocs/Collaborators
 
+xupeng:
+    display_name: "Xupeng Miao"
+    webpage: "https://hsword.github.io"
+    github: hsword
+    role: faculty
+    image: /img/people/xupengmiao.jpg
+    bio: "Postdoc"
 
 # Alphabetical order
 
