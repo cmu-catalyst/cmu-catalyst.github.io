@@ -65,12 +65,25 @@ ericxing:
 # Grads
 # Alphabetical order last name
 
+daiyaanarfeen:
+    display_name: "Daiyaan Arfeen"
+    webpage: "https://www.linkedin.com/in/daiyaanarfeen/"
+    role: grad
+    image: /img/people/daiyaanarfeen.jpg
+
 ppf:
     display_name: "Pratik Fegade"
     webpage: "https://pratikfegade.github.io/"
     github: pratikfegade
     role: grad
     image: /img/people/pratikfegade.jpg
+
+bohanhou:
+    display_name: "Bohan Hou"
+    webpage: "https://spectrometerhbh.github.io/"
+    github: spectrometerHBH
+    role: grad
+    image: /img/people/bohanhou.jpg
 
 ejaasaari:
     display_name: "Elias Jääsaari"
@@ -86,12 +99,18 @@ byungsoj:
     role: grad
     image: /img/people/byungsoj.jpg
 
-bohanhou:
-    display_name: "Bohan Hou"
-    webpage: "https://spectrometerhbh.github.io/"
-    github: spectrometerHBH
+ruihangl:
+    display_name: "Ruihang Lai"
+    webpage: "https://ruihanglai.com"
+    github: MasterJH5574
     role: grad
-    image: /img/people/bohanhou.jpg
+    image: /image/people/ruihangl.jpg
+
+suhas:
+    display_name: "Suhas Jayaram Subramanya"
+    webpage: "https://suhasjs.github.io/"
+    role: grad
+    image: /img/people/suhas.png
 
 mingkuangxu:
     display_name: "Mingkuan Xu"
@@ -100,17 +119,11 @@ mingkuangxu:
     role: grad
     image: /img/people/mingkuanxu.jpg
 
-daiyaanarfeen:
-    display_name: "Daiyaan Arfeen"
-    webpage: "https://www.linkedin.com/in/daiyaanarfeen/"
-    role: grad
-    image: /img/people/daiyaanarfeen.jpg
-
-suhas:
-    display_name: "Suhas Jayaram Subramanya"
-    webpage: "https://suhasjs.github.io/"
-    role: grad
-    image: /img/people/suhas.png
+zhihaozhang:
+    display_name: "Zhihao Zhang"
+    webpage: "https://jackfram.github.io"
+    role: masters
+    image: /img/people/zhihaozhang.jpg
 
 # Masters
 
@@ -119,6 +132,12 @@ neerajaggarwal:
     webpage: "https://neerajaggarwal.com"
     role: masters
     image: /img/people/neerajaggarwal.jpg
+    
+bowenchen:
+    display_name: "Bowen Chen"
+    webpage: "https://www.linkedin.com/in/bowen-chen-2018/"
+    role: masters
+    image: /img/people/bowenchen.jpg
 
 zhongyuchen:
     display_name: "Zhongyu Chen"
@@ -131,18 +150,6 @@ andrewgu:
     webpage: "https://www.linkedin.com/in/~andrew/"
     role: masters
     image: /img/people/andrewgu.jpeg
-
-zhihaozhang:
-    display_name: "Zhihao Zhang"
-    webpage: "https://jackfram.github.io"
-    role: masters
-    image: /img/people/zhihaozhang.jpg
-    
-bowenchen:
-    display_name: "Bowen Chen"
-    webpage: "https://www.linkedin.com/in/bowen-chen-2018/"
-    role: masters
-    image: /img/people/bowenchen.jpg
     
 zeyuwang:
     display_name: "Zeyu Wang"
