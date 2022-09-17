@@ -106,6 +106,13 @@ ruihangl:
     role: grad
     image: /img/people/ruihangl.jpg
 
+goliaro:
+    display_name: "Gabriele Oliaro"
+    webpage: "https://www.linkedin.com/in/gabrieleoliaro/"
+    github: gabrieleoliaro
+    role: grad
+    image: /img/people/goliaro.jpeg
+
 suhas:
     display_name: "Suhas Jayaram Subramanya"
     webpage: "https://suhasjs.github.io/"
