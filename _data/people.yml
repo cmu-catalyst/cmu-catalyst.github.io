@@ -106,6 +106,13 @@ byungsoj:
     role: grad
     image: /img/people/byungsoj.jpg
 
+hongyij:
+    display_name: "Hongyi Jin"
+    webpage: "https://www.linkedin.com/in/hongyi-jin-97b943250/"
+    github: jinhongyii
+    role: grad
+    image: /img/people/hongyij.jpg
+
 ruihangl:
     display_name: "Ruihang Lai"
     webpage: "https://ruihanglai.com"
