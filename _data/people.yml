@@ -139,6 +139,12 @@ zhihaozhang:
     role: grad
     image: /img/people/zhihaozhang.jpg
 
+yuezhao:
+    display_name: "Yue Zhao"
+    webpage: "https://www.andrew.cmu.edu/user/yuezhao2/"
+    role: grad
+    image: /img/people/yuezhao.jpg
+
 # Masters
 
 neerajaggarwal:
