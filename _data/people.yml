@@ -202,6 +202,13 @@ xiaolixi:
     role: masters
     image: /img/people/xiaolixi.jpg
 
+muyangli:
+    display_name: "Muyang Li"
+    webpage: "https://lmxyy.me"
+    role: masters
+    image: /img/people/muyangli.jpeg
+    
+
 # Alums
 # The order is: PhD/postdoc by year; MS by year; BS by year
 
