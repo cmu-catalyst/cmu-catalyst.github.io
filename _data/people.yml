@@ -251,6 +251,14 @@ xiaoyam:
     github: xiaoyam
     role: ugrad
     image: /img/people/xiaoyam.jpg
+
+yingyeew:
+    display_name: "Rae Wong"
+    webpage: "https://www.linkedin.com/in/raeyy/"
+    github: yingyee0111
+    role: ugrad
+    image: /img/people/yingyeew.jpeg
+
 # Undergrad Alums
 # Alphabetical order
 
