@@ -120,6 +120,13 @@ ruihangl:
     role: grad
     image: /img/people/ruihangl.jpg
 
+zikunl:
+    display_name: "Zikun Li"
+    webpage: "https://zikun-li.github.io/"
+    github: zikun-li
+    role: grad
+    image: /img/people/zikunl.jpg
+
 goliaro:
     display_name: "Gabriele Oliaro"
     webpage: "https://www.linkedin.com/in/gabrieleoliaro/"
