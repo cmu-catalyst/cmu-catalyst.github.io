@@ -185,6 +185,12 @@ andrewgu:
     role: masters
     image: /img/people/andrewgu.jpeg
 
+muyangli:
+    display_name: "Muyang Li"
+    webpage: "https://lmxyy.me"
+    role: masters
+    image: /img/people/muyangli.jpeg
+
 balam:
     display_name: "Balamurugan Marimuthu"
     webpage: "https://balamurugan15.github.io/"
@@ -197,23 +203,17 @@ zeyuwang:
     role: masters
     image: /img/people/zeyuwang.jpg
 
-yuxuanzheng:
-    display_name: "Eric Zheng"
-    webpage: "https://www.linkedin.com/in/ericzheng1/"
-    role: masters
-    image: /img/people/yuxuanzheng.jpg
-
 xiaolixi:
     display_name: "Tony Xi"
     webpage: "https://www.linkedin.com/in/xiaoli-xi-201b3a193/"
     role: masters
     image: /img/people/xiaolixi.jpg
 
-muyangli:
-    display_name: "Muyang Li"
-    webpage: "https://lmxyy.me"
+yuxuanzheng:
+    display_name: "Eric Zheng"
+    webpage: "https://www.linkedin.com/in/ericzheng1/"
     role: masters
-    image: /img/people/muyangli.jpeg
+    image: /img/people/yuxuanzheng.jpg
     
 
 # Alums
