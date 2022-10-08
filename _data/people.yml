@@ -159,6 +159,12 @@ yuezhao:
     role: grad
     image: /img/people/yuezhao.jpg
 
+yonghaozhuang:
+    display_name: "Yonghao Zhuang"
+    webpage: "https://zyhowell.github.io/"
+    role: grad
+    image: /img/people/yonghaozhuang.jpg
+
 # Masters
 
 neerajaggarwal:
