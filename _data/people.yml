@@ -191,6 +191,12 @@ andrewgu:
     role: masters
     image: /img/people/andrewgu.jpeg
 
+sbiswas:
+    display_name: "Shreyashri Biswas"
+    webpage: "https://www.linkedin.com/in/shreyab8/"
+    role: masters
+    image: /img/people/sbiswas.jpeg
+
 muyangli:
     display_name: "Muyang Li"
     webpage: "https://lmxyy.me"
