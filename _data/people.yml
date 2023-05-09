@@ -167,6 +167,12 @@ yonghaozhuang:
 
 # Masters
 
+sudeepagarwal:
+    display_name: "Sudeep Agarwal"
+    webpage: "https://sudeep.co"
+    role: masters
+    image: /img/people/sudeepagarwal.jpeg
+
 neerajaggarwal:
     display_name: "Neeraj Aggarwal"
     webpage: "https://neerajaggarwal.com"
