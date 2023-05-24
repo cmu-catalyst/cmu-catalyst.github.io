@@ -106,6 +106,13 @@ byungsoj:
     role: grad
     image: /img/people/byungsoj.jpg
 
+hongyij:
+    display_name: "Hongyi Jin"
+    webpage: "https://www.linkedin.com/in/hongyi-jin-97b943250/"
+    github: jinhongyii
+    role: grad
+    image: /img/people/hongyij.jpg
+
 ruihangl:
     display_name: "Ruihang Lai"
     webpage: "https://ruihanglai.com"
@@ -113,9 +120,16 @@ ruihangl:
     role: grad
     image: /img/people/ruihangl.jpg
 
+zikunl:
+    display_name: "Zikun Li"
+    webpage: "https://zikun-li.github.io/"
+    github: zikun-li
+    role: grad
+    image: /img/people/zikunl.jpg
+
 goliaro:
     display_name: "Gabriele Oliaro"
-    webpage: "https://www.linkedin.com/in/gabrieleoliaro/"
+    webpage: "https://www.gabrieleoliaro.com"
     github: gabrieleoliaro
     role: grad
     image: /img/people/goliaro.jpeg
@@ -145,7 +159,19 @@ yuezhao:
     role: grad
     image: /img/people/yuezhao.jpg
 
+yonghaozhuang:
+    display_name: "Yonghao Zhuang"
+    webpage: "https://zyhowell.github.io/"
+    role: grad
+    image: /img/people/yonghaozhuang.jpg
+
 # Masters
+
+sudeepagarwal:
+    display_name: "Sudeep Agarwal"
+    webpage: "https://sudeep.co"
+    role: masters
+    image: /img/people/sudeepagarwal.jpeg
 
 neerajaggarwal:
     display_name: "Neeraj Aggarwal"
@@ -170,6 +196,24 @@ andrewgu:
     webpage: "https://www.linkedin.com/in/~andrew/"
     role: masters
     image: /img/people/andrewgu.jpeg
+
+sbiswas:
+    display_name: "Shreyashri Biswas"
+    webpage: "https://www.linkedin.com/in/shreyab8/"
+    role: masters
+    image: /img/people/sbiswas.jpeg
+
+muyangli:
+    display_name: "Muyang Li"
+    webpage: "https://lmxyy.me"
+    role: masters
+    image: /img/people/muyangli.jpeg
+
+balam:
+    display_name: "Balamurugan Marimuthu"
+    webpage: "https://balamurugan15.github.io/"
+    role: masters
+    image: /img/people/balam.jpg
     
 zeyuwang:
     display_name: "Zeyu Wang"
@@ -177,11 +221,18 @@ zeyuwang:
     role: masters
     image: /img/people/zeyuwang.jpg
 
+xiaolixi:
+    display_name: "Tony Xi"
+    webpage: "https://www.linkedin.com/in/xiaoli-xi-201b3a193/"
+    role: masters
+    image: /img/people/xiaolixi.jpg
+
 yuxuanzheng:
     display_name: "Eric Zheng"
     webpage: "https://www.linkedin.com/in/ericzheng1/"
     role: masters
     image: /img/people/yuxuanzheng.jpg
+    
 
 # Alums
 # The order is: PhD/postdoc by year; MS by year; BS by year
@@ -205,6 +256,13 @@ poojan:
 # Undergrads
 # Alphabetical order
 
+jinqic:
+    display_name: "Jinqi (Kathryn) Chen"
+    webpage: "https://www.linkedin.com/in/jinqi-chen-354172173/"
+    github: Kathryn-cat
+    role: ugrad
+    image: /img/people/jinqic.jpg
+
 peiyuanl:
     display_name: "Peiyuan Liao"
     webpage: "https://www.liaopeiyuan.com/"
@@ -218,6 +276,14 @@ xiaoyam:
     github: xiaoyam
     role: ugrad
     image: /img/people/xiaoyam.jpg
+
+yingyeew:
+    display_name: "Rae Wong"
+    webpage: "https://www.linkedin.com/in/raeyy/"
+    github: yingyee0111
+    role: ugrad
+    image: /img/people/yingyeew.jpeg
+
 # Undergrad Alums
 # Alphabetical order
 
