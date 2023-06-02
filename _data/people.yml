@@ -167,6 +167,12 @@ yonghaozhuang:
 
 # Masters
 
+guoyaoli:
+    display_name: "Guoyao Li"
+    webpage: "https://guoyaoli.com"
+    role: masters
+    image: /img/people/guoyaoli.jpg
+
 sudeepagarwal:
     display_name: "Sudeep Agarwal"
     webpage: "https://sudeep.co"
