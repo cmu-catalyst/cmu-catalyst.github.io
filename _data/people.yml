@@ -164,6 +164,11 @@ yonghaozhuang:
     webpage: "https://zyhowell.github.io/"
     role: grad
     image: /img/people/yonghaozhuang.jpg
+zhuomingchen:
+    display_name: "Zhuoming Chen"
+    webpage: "https://www.linkedin.com/in/zhuoming-chen-325075234/"
+    role: grad
+    image: /img/people/zhuomingchen.jpg
 
 # Masters
 
