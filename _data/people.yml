@@ -140,6 +140,13 @@ suhas:
     role: grad
     image: /img/people/suhas.png
 
+mengdi:
+    display_name: "Mengdi Wu"
+    webpage: "https://wmdi.github.io/"
+    github: wmdi
+    role: grad
+    image: /img/people/mengdiwu.jpg
+
 mingkuangxu:
     display_name: "Mingkuan Xu"
     webpage: "https://mingkuan.taichi.graphics/"
