@@ -160,12 +160,6 @@ zhihaozhang:
     role: grad
     image: /img/people/zhihaozhang.jpg
 
-yuezhao:
-    display_name: "Yue Zhao"
-    webpage: "https://www.andrew.cmu.edu/user/yuezhao2/"
-    role: grad
-    image: /img/people/yuezhao.jpg
-
 yonghaozhuang:
     display_name: "Yonghao Zhuang"
     webpage: "https://zyhowell.github.io/"
@@ -260,6 +254,14 @@ xinhaocheng:
 
 # Alums
 # The order is: PhD/postdoc by year; MS by year; BS by year
+
+yuezhao:
+    display_name: "Yue Zhao"
+    webpage: "https://yzhao062.github.io/"
+    github: yzhao062
+    role: alum
+    image: /img/people/yuezhao.jpg
+    bio: "Ph.D., 2023. Assistant Professor at USC."
 
 sheng:
     display_name: "Sheng Xu"
