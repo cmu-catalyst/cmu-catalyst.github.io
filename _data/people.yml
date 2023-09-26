@@ -185,65 +185,12 @@ sudeepagarwal:
     role: masters
     image: /img/people/sudeepagarwal.jpeg
 
-neerajaggarwal:
-    display_name: "Neeraj Aggarwal"
-    webpage: "https://neerajaggarwal.com"
-    role: masters
-    image: /img/people/neerajaggarwal.jpg
-    
-bowenchen:
-    display_name: "Bowen Chen"
-    webpage: "https://www.linkedin.com/in/bowen-chen-2018/"
-    role: masters
-    image: /img/people/bowenchen.jpg
-
-zhongyuchen:
-    display_name: "Zhongyu Chen"
-    webpage: "https://www.linkedin.com/in/zhongyu-chen-cs2020/"
-    role: masters
-    image: /img/people/zhongyuchen.jpg
-
-andrewgu:
-    display_name: "Andrew Gu"
-    webpage: "https://www.linkedin.com/in/~andrew/"
-    role: masters
-    image: /img/people/andrewgu.jpeg
-
 sbiswas:
     display_name: "Shreyashri Biswas"
     webpage: "https://www.linkedin.com/in/shreyab8/"
     role: masters
     image: /img/people/sbiswas.jpeg
 
-muyangli:
-    display_name: "Muyang Li"
-    webpage: "https://lmxyy.me"
-    role: masters
-    image: /img/people/muyangli.jpeg
-
-balam:
-    display_name: "Balamurugan Marimuthu"
-    webpage: "https://balamurugan15.github.io/"
-    role: masters
-    image: /img/people/balam.jpg
-    
-zeyuwang:
-    display_name: "Zeyu Wang"
-    webpage: "https://www.linkedin.com/in/zeyu-wang-94094a191/"
-    role: masters
-    image: /img/people/zeyuwang.jpg
-
-xiaolixi:
-    display_name: "Tony Xi"
-    webpage: "https://www.linkedin.com/in/xiaoli-xi-201b3a193/"
-    role: masters
-    image: /img/people/xiaolixi.jpg
-
-yuxuanzheng:
-    display_name: "Eric Zheng"
-    webpage: "https://www.linkedin.com/in/ericzheng1/"
-    role: masters
-    image: /img/people/yuxuanzheng.jpg
 
 xinhaocheng:
     display_name: "Xinhao Cheng"
@@ -260,6 +207,7 @@ aprilyang:
 # Alums
 # The order is: PhD/postdoc by year; MS by year; BS by year
 
+##################### PhD alumni #####################
 yuezhao:
     display_name: "Yue Zhao"
     webpage: "https://yzhao062.github.io/"
@@ -267,6 +215,78 @@ yuezhao:
     role: alum
     image: /img/people/yuezhao.jpg
     bio: "Ph.D., 2023. Assistant Professor at USC."
+
+##################### MS alumni #####################
+muyangli:
+    display_name: "Muyang Li"
+    webpage: "https://lmxyy.me"
+    role: alum
+    image: /img/people/muyangli.jpeg
+    bio: "M.S., 2023. PhD student at MIT"
+
+xiaolixi:
+    display_name: "Tony Xi"
+    webpage: "https://www.linkedin.com/in/xiaoli-xi-201b3a193/"
+    role: alum
+    image: /img/people/xiaolixi.jpg
+    bio: "M.S., 2023. Now at Apple"
+
+zeyuwang:
+    display_name: "Zeyu Wang"
+    webpage: "https://www.linkedin.com/in/zeyu-wang-94094a191/"
+    role: alum
+    image: /img/people/zeyuwang.jpg
+    bio: "M.S., 2023. Now at Yahoo"
+
+andrewgu:
+    display_name: "Andrew Gu"
+    webpage: "https://www.linkedin.com/in/~andrew/"
+    role: alum
+    image: /img/people/andrewgu.jpeg
+    bio: "M.S., 2022. Now at Meta"
+
+zhongyuchen:
+    display_name: "Zhongyu Chen"
+    webpage: "https://www.linkedin.com/in/zhongyu-chen-cs2020/"
+    role: alum
+    image: /img/people/zhongyuchen.jpg
+    bio: "M.S., 2022. Now at LinkedIn"
+
+bowenchen:
+    display_name: "Bowen Chen"
+    webpage: "https://www.linkedin.com/in/bowen-chen-2018/"
+    role: alum
+    image: /img/people/bowenchen.jpg
+    bio: "M.S., 2022. Now at Annapurna Labs"
+
+neerajaggarwal:
+    display_name: "Neeraj Aggarwal"
+    webpage: "https://neerajaggarwal.com"
+    role: alum
+    image: /img/people/neerajaggarwal.jpg
+    bio: "M.S., 2022. Now at Applied Intuition"
+
+balam:
+    display_name: "Balamurugan Marimuthu"
+    webpage: "https://balamurugan15.github.io/"
+    role: alum
+    image: /img/people/balam.jpg
+    bio: "M.S., 2022. Now at SambaNova"
+
+yuxuanzheng:
+    display_name: "Eric Zheng"
+    webpage: "https://www.linkedin.com/in/ericzheng1/"
+    role: alum
+    image: /img/people/yuxuanzheng.jpg
+    bio: "M.S., 2022. Now at Citadel"
+
+xiaoyam:
+    display_name: "Michelle Ma"
+    webpage: "https://www.linkedin.com/in/michelle-ma-a67367157/"
+    github: xiaoyam
+    role: alum
+    image: /img/people/xiaoyam.jpg
+    bio: "M.S., 2022."
 
 sheng:
     display_name: "Sheng Xu"
@@ -276,12 +296,21 @@ sheng:
     image: /img/people/shengx.jpg
     bio: "M.S, 2020. Now at AWS."
 
+##################### BS alumni #####################
 poojan:
     display_name: "Poojan Palwai"
     webpage: "https://www.linkedin.com/in/poojan-palwai-79894b190/"
     github: ppalwai2001
     role: alum
     image: /img/people/poojan.jpg
+    bio: "B.S, class of 2023"
+
+yingyeew:
+    display_name: "Rae Wong"
+    webpage: "https://www.linkedin.com/in/raeyy/"
+    github: yingyee0111
+    role: alum
+    image: /img/people/yingyeew.jpeg
     bio: "B.S, class of 2023"
 
 # Undergrads
@@ -300,20 +329,6 @@ peiyuanl:
     github: liaopeiyuan
     role: ugrad
     image: /img/people/peiyuanl.jpg
-
-xiaoyam:
-    display_name: "Michelle Ma"
-    webpage: "https://www.linkedin.com/in/michelle-ma-a67367157/"
-    github: xiaoyam
-    role: ugrad
-    image: /img/people/xiaoyam.jpg
-
-yingyeew:
-    display_name: "Rae Wong"
-    webpage: "https://www.linkedin.com/in/raeyy/"
-    github: yingyee0111
-    role: ugrad
-    image: /img/people/yingyeew.jpeg
 
 # Undergrad Alums
 # Alphabetical order
