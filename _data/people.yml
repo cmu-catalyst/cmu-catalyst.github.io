@@ -251,6 +251,11 @@ xinhaocheng:
     role: masters
     image: /img/people/xinhaocheng.jpeg    
     
+aprilyang:
+    display_name: "April Yang"
+    webpage: "https://www.linkedin.com/in/yutongayang/"
+    role: masters
+    image: /img/people/aprilyang.jpg    
 
 # Alums
 # The order is: PhD/postdoc by year; MS by year; BS by year
