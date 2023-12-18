@@ -198,6 +198,12 @@ aprilyang:
     role: masters
     image: /img/people/aprilyang.jpg    
 
+kartikkhandelwal:
+    display_name: "Kartik Khandelwal"
+    webpage: "https://www.linkedin.com/in/kartik14/"
+    role: masters
+    image: /img/people/kartik.jpg    
+
 charlieruan:
     display_name: "Charlie Ruan"
     webpage: "https://www.linkedin.com/in/charlie-ruan/"
