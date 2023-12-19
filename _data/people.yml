@@ -204,6 +204,13 @@ kartikkhandelwal:
     role: masters
     image: /img/people/kartik.jpg    
 
+charlieruan:
+    display_name: "Charlie Ruan"
+    webpage: "https://www.linkedin.com/in/charlie-ruan/"
+    github: CharlieFRuan
+    role: masters
+    image: /img/people/charlieruan.jpg
+
 # Alums
 # The order is: PhD/postdoc by year; MS by year; BS by year
 
