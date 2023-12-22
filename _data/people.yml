@@ -346,6 +346,13 @@ jinqic:
     role: ugrad
     image: /img/people/jinqic.jpg
 
+aczhu:
+    display_name: "Alan Zhu"
+    webpage: "https://az1326.github.io/"
+    github: az1326
+    role: ugrad
+    image: /img/people/aczhu.png
+
 
 # Undergrad Alums
 # Alphabetical order
