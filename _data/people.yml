@@ -211,6 +211,13 @@ charlieruan:
     role: masters
     image: /img/people/charlieruan.jpg
 
+rickzhou:
+    display_name: "Rick (Xun) Zhou"
+    webpage: "https://www.linkedin.com/in/rick-zhou/"
+    github: rickzx
+    role: masters
+    image: /img/people/rickzhou.jpg
+
 # Alums
 # The order is: PhD/postdoc by year; MS by year; BS by year
 
