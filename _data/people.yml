@@ -217,6 +217,12 @@ rickzhou:
     github: rickzx
     role: masters
     image: /img/people/rickzhou.jpg
+    
+aadeshkd:
+    display_name: "Aadesh Desai"
+    webpage: "https://www.linkedin.com/in/aadesh-desai/"
+    role: masters
+    image: /img/people/aadeshkd.jpeg
 
 # Alums
 # The order is: PhD/postdoc by year; MS by year; BS by year
