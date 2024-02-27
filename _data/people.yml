@@ -191,6 +191,12 @@ xinhaocheng:
     webpage: "https://www.linkedin.com/in/xinhao-cheng-5b8a8a1b0/"
     role: masters
     image: /img/people/xinhaocheng.jpeg    
+
+remidelacourt:
+    display_name: "Remi Delacourt"
+    webpage: "https://www.linkedin.com/in/remi-delacourt/"
+    role: masters
+    image: /img/people/remidelacourt.jpg
     
 aprilyang:
     display_name: "April Yang"
