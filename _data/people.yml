@@ -93,13 +93,6 @@ ejaasaari:
     role: grad
     image: /img/people/ejaasaari.jpg
 
-byungsoj:
-    display_name: "Byungsoo Jeon"
-    webpage: "https://madfunmaker.github.io/"
-    github: MadFunMaker
-    role: grad
-    image: /img/people/byungsoj.jpg
-
 hongyij:
     display_name: "Hongyi Jin"
     webpage: "https://www.linkedin.com/in/hongyi-jin-97b943250/"
@@ -243,6 +236,15 @@ ppf:
     role: alum
     image: /img/people/pratikfegade.jpg
     bio: "Ph.D., 2023. Google."
+
+byungsoj:
+    display_name: "Byungsoo Jeon"
+    webpage: "https://madfunmaker.github.io/"
+    github: MadFunMaker
+    role: alum
+    image: /img/people/byungsoj.jpg
+    bio: "Ph.D., 2024. OctoAI."
+
     
 ##################### MS alumni #####################
 muyangli:
