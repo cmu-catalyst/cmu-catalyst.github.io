@@ -351,6 +351,14 @@ yingyeew:
     image: /img/people/yingyeew.jpeg
     bio: "B.S, class of 2023"
 
+aczhu:
+    display_name: "Alan Zhu"
+    webpage: "https://az1326.github.io/"
+    github: az1326
+    role: alum
+    image: /img/people/aczhu.png
+    bio: "B.S, class of 2024. PhD student at UC Berkeley."
+
 # Undergrads
 # Alphabetical order
 
@@ -360,13 +368,6 @@ jinqic:
     github: Kathryn-cat
     role: ugrad
     image: /img/people/jinqic.jpg
-
-aczhu:
-    display_name: "Alan Zhu"
-    webpage: "https://az1326.github.io/"
-    github: az1326
-    role: ugrad
-    image: /img/people/aczhu.png
 
 
 # Undergrad Alums
