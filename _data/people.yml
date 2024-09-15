@@ -158,6 +158,12 @@ zhuomingchen:
     role: grad
     image: /img/people/zhuomingchen.jpg
 
+xinhaocheng:
+    display_name: "Xinhao Cheng"
+    webpage: "https://xinhaoc.github.io/"
+    role: grad
+    image: /img/people/xinhaocheng.jpeg   
+
 # Masters
 
 guoyaoli:
@@ -177,13 +183,6 @@ sbiswas:
     webpage: "https://www.linkedin.com/in/shreyab8/"
     role: masters
     image: /img/people/sbiswas.jpeg
-
-
-xinhaocheng:
-    display_name: "Xinhao Cheng"
-    webpage: "https://www.linkedin.com/in/xinhao-cheng-5b8a8a1b0/"
-    role: masters
-    image: /img/people/xinhaocheng.jpeg    
 
 remidelacourt:
     display_name: "Remi Delacourt"
