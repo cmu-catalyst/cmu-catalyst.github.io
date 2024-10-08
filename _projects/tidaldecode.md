@@ -20,8 +20,7 @@ sparse attention without sacrificing the quality of the generated results.
 
 ## Reference Paper
 
-- Lijie Yang<sup>*</sup>, Zhihao Zhang<sup>*</sup>, Zhuofu Chen, Zikun Li, Zhihao Jia. [TidalDecode: Fast and Accurate LLM Decoding with Position Persistent Sparse Attention](data/pdf/TidalDecode.pdf).
-  Preprint Arxiv.2410.05076
+- Lijie Yang<sup>*</sup>, Zhihao Zhang<sup>*</sup>, Zhuofu Chen, Zikun Li, Zhihao Jia. [TidalDecode: Fast and Accurate LLM Decoding with Position Persistent Sparse Attention](https://arxiv.org/pdf/2410.05076). Preprint Arxiv.2410.05076
 
 ## Technical Highlights
 
@@ -42,7 +41,7 @@ sparse attention without sacrificing the quality of the generated results.
   the polluted tokens in the KV cache.
   
 {:center: style="text-align: center"}
-![image](/img/tidaldecode/Cache-Correction.pdf){: width="60%"}
+![image](/img/tidaldecode/Cache-Correction.jpg){: width="60%"}
 {:center}
 
 ## Resources
