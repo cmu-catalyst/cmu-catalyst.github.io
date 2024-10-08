@@ -42,7 +42,7 @@ sparse attention without sacrificing the quality of the generated results.
   the polluted tokens in the KV cache.
   
 {:center: style="text-align: center"}
-![image](/img/tidaldecode/Cache-Correction.pdf){: width="80%"}
+![image](/img/tidaldecode/Cache-Correction.pdf){: width="60%"}
 {:center}
 
 ## Resources
