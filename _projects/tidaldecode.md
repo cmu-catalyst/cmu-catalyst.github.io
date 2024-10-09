@@ -32,7 +32,7 @@ sparse attention without sacrificing the quality of the generated results.
   set of tokens, reducing the overhead of token selection.
   
 {:center: style="text-align: center"}
-![image](/img/tidaldecode/TidalDecode-GIF.gif){: width="80%"}
+![image](/img/tidaldecode/TidalDecode-GIF.gif){: width="90%"}
 {:center}
 
 - **KV Cache Correction**. For tokens decoded by sparse attention methods, their key/value representations can deviate from the original representation of full attention decoded ones,
@@ -41,8 +41,49 @@ sparse attention without sacrificing the quality of the generated results.
   the polluted tokens in the KV cache.
   
 {:center: style="text-align: center"}
-![image](/img/tidaldecode/Cache-Correction.jpg){: width="60%"}
+![image](/img/tidaldecode/Cache-Correction.jpg){: width="40%"}
 {:center}
+
+## Evaluations
+For all the evaluations, we only enabled Position Persistent Sparse Attention (with KV Cache Correction off) for a fair comparison. Experiments are conducted on a single
+Nvidia A100 (80 GB HBM, SXM4) with CUDA 12.2
+- **End-to-end Latency**
+
+{:center: style="text-align: center"}
+![image](/img/tidaldecode/llama_e2e_eval.png){: width="90%"}
+{:center}
+
+*Figure 1: End-to-end latency results on LLaMA-2-7B model for Full attention baseline(Full), SOTA Quest, and TidalDecode(TD) when context length is 10K, 32K, and 100K, respectively.*
+
+- **Attention Latency**
+
+{:center: style="text-align: center"}
+![image](/img/tidaldecode/llama_latency_eval.png){: width="90%"}
+{:center}
+
+*Figure 2: Overall attention latency results for different methods on the LLaMA model with (a) 32 and (b) 64 layers. The full attention model is used as a reference to show TidalDecode and Quest's overall attention latency ratio. The left/middle/right bar denotes the full attention baseline, Quest, and TidalDecode, respectively.*
+
+- **Accuracy**
+
+{:center: style="text-align: center"}
+![image](/img/tidaldecode/llama3_needle_eval.png){: width="90%"}
+{:center}
+
+*Figure 3: 10K- and 100K-context-length Needle-in-the-Haystack test results of TD+Lx (x means recomputing at Layer x) and Quest on Llama-3-8B-Instruct-Gradient-1048k. TidalDecode consistently outperforms Quest and achieves full accuracy with 128 tokens in 10K-, and 100K-context-length tests, which is only 1\% and 0.1\% of total input lengths, respectively.*
+
+## Reference
+If you are interested in TidalDecode and want to use it in your project, please consider citing it with
+```
+@misc{yang2024tidaldecodefastaccuratellm,
+      title={TidalDecode: Fast and Accurate LLM Decoding with Position Persistent Sparse Attention}, 
+      author={Lijie Yang and Zhihao Zhang and Zhuofu Chen and Zikun Li and Zhihao Jia},
+      year={2024},
+      eprint={2410.05076},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2410.05076}, 
+}
+```
 
 ## Resources
 - [Codebase](https://github.com/DerrickYLJ/TidalDecode) for reproducing all the results in the paper.
