@@ -146,6 +146,13 @@ mingkuangxu:
     role: grad
     image: /img/people/mingkuanxu.jpg
 
+xinyuyang:
+    display_name: "Xinyu Yang"
+    webpage: "https://xinyuyang.me/"
+    github: Hanyuezhuohua
+    role: grad
+    image: /img/people/xinyuyang.jpg
+
 zhihaozhang:
     display_name: "Zhihao Zhang"
     webpage: "https://jackfram.github.io"
