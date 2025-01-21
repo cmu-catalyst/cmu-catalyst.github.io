@@ -284,68 +284,75 @@ byungsoj:
 
     
 ##################### MS alumni #####################
+nestorqin:
+    display_name: "Nestor Qin"
+    webpage: "https://neet.coffee"
+    role: alum
+    image: /img/people/nestorqin.jpg
+    bio: "M.S., 2024. NVIDIA."
+
 muyangli:
     display_name: "Muyang Li"
     webpage: "https://lmxyy.me"
     role: alum
     image: /img/people/muyangli.jpeg
-    bio: "M.S., 2023. PhD student at MIT"
+    bio: "M.S., 2023. PhD student at MIT."
 
 xiaolixi:
     display_name: "Tony Xi"
     webpage: "https://www.linkedin.com/in/xiaoli-xi-201b3a193/"
     role: alum
     image: /img/people/xiaolixi.jpg
-    bio: "M.S., 2023. Now at Apple"
+    bio: "M.S., 2023. Apple."
 
 zeyuwang:
     display_name: "Zeyu Wang"
     webpage: "https://www.linkedin.com/in/zeyu-wang-94094a191/"
     role: alum
     image: /img/people/zeyuwang.jpg
-    bio: "M.S., 2023. Now at Yahoo"
+    bio: "M.S., 2023. Yahoo."
 
 andrewgu:
     display_name: "Andrew Gu"
     webpage: "https://www.linkedin.com/in/~andrew/"
     role: alum
     image: /img/people/andrewgu.jpeg
-    bio: "M.S., 2022. Now at Meta"
+    bio: "M.S., 2022. Meta."
 
 zhongyuchen:
     display_name: "Zhongyu Chen"
     webpage: "https://www.linkedin.com/in/zhongyu-chen-cs2020/"
     role: alum
     image: /img/people/zhongyuchen.jpg
-    bio: "M.S., 2022. Now at LinkedIn"
+    bio: "M.S., 2022. LinkedIn."
 
 bowenchen:
     display_name: "Bowen Chen"
     webpage: "https://www.linkedin.com/in/bowen-chen-2018/"
     role: alum
     image: /img/people/bowenchen.jpg
-    bio: "M.S., 2022. Now at Annapurna Labs"
+    bio: "M.S., 2022. Annapurna Labs."
 
 neerajaggarwal:
     display_name: "Neeraj Aggarwal"
     webpage: "https://neerajaggarwal.com"
     role: alum
     image: /img/people/neerajaggarwal.jpg
-    bio: "M.S., 2022. Now at Applied Intuition"
+    bio: "M.S., 2022. Applied Intuition."
 
 balam:
     display_name: "Balamurugan Marimuthu"
     webpage: "https://balamurugan15.github.io/"
     role: alum
     image: /img/people/balam.jpg
-    bio: "M.S., 2022. Now at SambaNova"
+    bio: "M.S., 2022. SambaNova."
 
 yuxuanzheng:
     display_name: "Eric Zheng"
     webpage: "https://www.linkedin.com/in/ericzheng1/"
     role: alum
     image: /img/people/yuxuanzheng.jpg
-    bio: "M.S., 2022. Now at Citadel"
+    bio: "M.S., 2022. Citadel."
 
 xiaoyam:
     display_name: "Michelle Ma"
@@ -361,7 +368,7 @@ sheng:
     github: shengxu1
     role: alum
     image: /img/people/shengx.jpg
-    bio: "M.S, 2020. Now at AWS."
+    bio: "M.S, 2020. AWS."
 
 ##################### BS alumni #####################
 peiyuanl:
@@ -493,7 +500,7 @@ jinqic:
 # alum-a:
 #     display_name: "Alum A"
 #     role: alum
-#     bio: "Ph.D., 2013. Now at Microsoft Research."
+#     bio: "Ph.D., 2013. Microsoft Research."
 
 # alum-b:
 #     display_name: "Alum B With Way Longer Name"
