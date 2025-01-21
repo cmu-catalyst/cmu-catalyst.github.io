@@ -413,6 +413,12 @@ jinqic:
     role: ugrad
     image: /img/people/jinqic.jpg
 
+yiyanz:
+    display_name: "Yiyan Zhai"
+    webpage: "https://yiyanzhai.github.io/"
+    github: YiyanZhai
+    role: ugrad
+    image: /img/people/yiyanz.jpeg
 
 # Undergrad Alums
 # Alphabetical order
