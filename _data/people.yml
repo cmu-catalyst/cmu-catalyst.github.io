@@ -202,6 +202,14 @@ ranajoy:
     role: grad
     image: /img/people/ranajoy.jpg   
 
+# Visitor
+
+zhye:
+    display_name: "Zihao Ye"
+    webpage: "https://homes.cs.washington.edu/~zhye/"
+    role: visitor
+    image: /img/people/zhye.jpg
+
 # Masters
 
 guoyaoli:
