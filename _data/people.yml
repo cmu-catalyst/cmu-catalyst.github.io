@@ -428,6 +428,13 @@ yiyanz:
     role: ugrad
     image: /img/people/yiyanz.jpeg
 
+alexj:
+    display_name: "Alexander Jiang"
+    webpage: "https://www.linkedin.com/in/akj2"
+    github: zanderjiang
+    role: ugrad
+    image: /img/people/alexanderjiang.png
+
 # Undergrad Alums
 # Alphabetical order
 
