@@ -219,6 +219,13 @@ yingyih:
     role: masters
     image: /img/people/yingyih.jpg
 
+joshuajhong:
+    display_name: "Joshua Hong"
+    webpage: "https://www.linkedin.com/in/joshua--hong/"
+    github: joshua-j-hong
+    role: masters
+    image: /img/people/joshuajhong.jpg
+
 # Undergraduate
 
 jameszho:
