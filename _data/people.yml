@@ -212,6 +212,13 @@ hugolatendresse:
     role: masters
     image: /img/people/hugolatendresse.jpg
 
+yingyih:
+    display_name: "Yingyi Huang"
+    webpage: "https://www.linkedin.com/in/avyh/"
+    github: yyihuang
+    role: masters
+    image: /img/people/yingyih.jpg
+
 # Undergraduate
 
 jameszho:
