@@ -212,6 +212,14 @@ hugolatendresse:
     role: masters
     image: /img/people/hugolatendresse.jpg
 
+# Undergraduate
+
+jameszho:
+    display_name: "Jimmy Zhou"
+    webpage: "https://www.linkedin.com/in/jim-jimmyzhou/"
+    role: ugrad
+    image: /img/people/jameszho.jpg
+
 # Alums
 # PhD/postdoc/MS/BS sorted by year.
 
