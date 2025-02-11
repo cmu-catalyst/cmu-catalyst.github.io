@@ -226,6 +226,13 @@ joshuajhong:
     role: masters
     image: /img/people/joshuajhong.jpg
 
+annanyapr:
+    display_name: "Annanya Chauhan"
+    webpage: "https://www.linkedin.com/in/annanya-pratap/"
+    github: annanyapr
+    role: masters
+    image: /img/people/annanyapr.png
+
 # Undergraduate
 
 jameszho:
