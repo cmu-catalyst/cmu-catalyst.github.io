@@ -18,12 +18,12 @@ roles:
   #   name: Staff
   - key: grad
     name: PhD Students
+  - key: visitor
+    name: Visiting Students
   - key: masters
     name: Masters Students
   - key: ugrad
     name: Undergraduate Students
-  - key: visitor
-    name: Visiting Students
   - key: alum
     name: Alumni
 

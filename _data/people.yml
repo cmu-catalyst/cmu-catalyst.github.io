@@ -219,6 +219,12 @@ jameszho:
     webpage: "https://www.linkedin.com/in/jim-jimmyzhou/"
     role: ugrad
     image: /img/people/jameszho.jpg
+nihaljohngeorge:
+    display_name: "Nihal John George"
+    webpage: "https://www.linkedin.com/in/nihal-john-george/"
+    github: nihalgeorge01
+    role: masters
+    image: /img/people/nihaljohngeorge.jpg
 
 # Alums
 # PhD/postdoc/MS/BS sorted by year.
