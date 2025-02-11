@@ -23,7 +23,7 @@ roles:
   - key: ugrad
     name: Undergraduate Students
   - key: visitor
-    name: Visiting PhD Students
+    name: Visiting Students
   - key: alum
     name: Alumni
 
