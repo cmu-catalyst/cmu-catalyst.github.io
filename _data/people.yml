@@ -205,10 +205,20 @@ charlieruan:
     role: masters
     image: /img/people/charlieruan.jpg
 
+hugolatendresse:
+    display_name: "Hugo Latendresse"
+    webpage: "https://www.linkedin.com/in/hugolatendresse/"
+    github: hugolatendresse
+    role: masters
+    image: /img/people/hugolatendresse.jpg
+
 # Alums
 # PhD/postdoc/MS/BS sorted by year.
 
 ##################### 2024 #####################
+
+# Alums
+# The order is: PhD/postdoc by year; MS by year; BS by year
 
 xupeng:
     display_name: "Xupeng Miao"
@@ -225,6 +235,22 @@ byungsoj:
     role: alum
     image: /img/people/byungsoj.jpg
     bio: "Ph.D., 2024. OctoAI."
+
+yuezhao:
+    display_name: "Yue Zhao"
+    webpage: "https://yzhao062.github.io/"
+    github: yzhao062
+    role: alum
+    image: /img/people/yuezhao.jpg
+    bio: "Ph.D., 2023. Assistant Professor at USC."
+
+ppf:
+    display_name: "Pratik Fegade"
+    webpage: "https://pratikfegade.github.io/"
+    github: pratikfegade
+    role: alum
+    image: /img/people/pratikfegade.jpg
+    bio: "Ph.D., 2023. Google."
 
 nestorqin:
     display_name: "Nestor Qin"
@@ -269,24 +295,6 @@ aczhu:
     role: alum
     image: /img/people/aczhu.png
     bio: "B.S, class of 2024. PhD student at UC Berkeley."
-
-##################### 2023 #####################
-
-yuezhao:
-    display_name: "Yue Zhao"
-    webpage: "https://yzhao062.github.io/"
-    github: yzhao062
-    role: alum
-    image: /img/people/yuezhao.jpg
-    bio: "Ph.D., 2023. Assistant Professor at USC."
-
-ppf:
-    display_name: "Pratik Fegade"
-    webpage: "https://pratikfegade.github.io/"
-    github: pratikfegade
-    role: alum
-    image: /img/people/pratikfegade.jpg
-    bio: "Ph.D., 2023. Google."
 
 ejaasaari:
     display_name: "Elias Jääsaari"
