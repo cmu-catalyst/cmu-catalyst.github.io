@@ -1,6 +1,14 @@
 # Faculty
 # Alphabetical order last name
 
+beidichen:
+    display_name: "Beidi Chen"
+    webpage: "https://www.andrew.cmu.edu/user/beidic/"
+    github: keroro824
+    role: faculty
+    image: /img/people/beidichen.png
+    bio: "Assistant Professor"
+
 tqchen:
     display_name: "Tianqi Chen"
     webpage: "https://tqchen.com"
@@ -56,24 +64,9 @@ ericxing:
     role: faculty
     image: /img/people/ericxing.jpg
     bio: "Professor"
-beidichen:
-    display_name: "Beidi Chen"
-    webpage: "https://www.andrew.cmu.edu/user/beidic/"
-    github: keroro824
-    role: faculty
-    image: /img/people/beidichen.png
-    bio: "Assistant Professor"
 
 # Postdocs/Collaborators
 
-xupeng:
-    display_name: "Xupeng Miao"
-    webpage: "https://hsword.github.io"
-    github: hsword
-    role: faculty
-    image: /img/people/xupengmiao.jpg
-    bio: "Postdoc"
-    
 haizhong:
     display_name: "Haizhong Zheng"
     webpage: "http://zhenghaizhong.com/"
@@ -104,13 +97,6 @@ bohanhou:
     github: spectrometerHBH
     role: grad
     image: /img/people/bohanhou.jpg
-
-ejaasaari:
-    display_name: "Elias Jääsaari"
-    webpage: "https://eliasjaasaari.com"
-    github: ejaasaari
-    role: grad
-    image: /img/people/ejaasaari.jpg
 
 hongyij:
     display_name: "Hongyi Jin"
@@ -212,55 +198,12 @@ zhye:
 
 # Masters
 
-guoyaoli:
-    display_name: "Guoyao Li"
-    webpage: "https://guoyaoli.com"
-    role: masters
-    image: /img/people/guoyaoli.jpg
-
-sudeepagarwal:
-    display_name: "Sudeep Agarwal"
-    webpage: "https://sudeep.co"
-    role: masters
-    image: /img/people/sudeepagarwal.jpeg
-
-sbiswas:
-    display_name: "Shreyashri Biswas"
-    webpage: "https://www.linkedin.com/in/shreyab8/"
-    role: masters
-    image: /img/people/sbiswas.jpeg
-
-remidelacourt:
-    display_name: "Remi Delacourt"
-    webpage: "https://www.linkedin.com/in/remi-delacourt/"
-    role: masters
-    image: /img/people/remidelacourt.jpg
-    
-aprilyang:
-    display_name: "April Yang"
-    webpage: "https://www.linkedin.com/in/yutongayang/"
-    role: masters
-    image: /img/people/aprilyang.jpg    
-
-kartikkhandelwal:
-    display_name: "Kartik Khandelwal"
-    webpage: "https://www.linkedin.com/in/kartik14/"
-    role: masters
-    image: /img/people/kartik.jpg    
-
 charlieruan:
     display_name: "Charlie Ruan"
     webpage: "https://www.linkedin.com/in/charlie-ruan/"
     github: CharlieFRuan
     role: masters
     image: /img/people/charlieruan.jpg
-
-rickzhou:
-    display_name: "Rick (Xun) Zhou"
-    webpage: "https://www.linkedin.com/in/rick-zhou/"
-    github: rickzx
-    role: masters
-    image: /img/people/rickzhou.jpg
 
 hugolatendresse:
     display_name: "Hugo Latendresse"
@@ -270,9 +213,29 @@ hugolatendresse:
     image: /img/people/hugolatendresse.jpg
 
 # Alums
+# PhD/postdoc/MS/BS sorted by year.
+
+##################### 2024 #####################
+
+# Alums
 # The order is: PhD/postdoc by year; MS by year; BS by year
 
-##################### PhD alumni #####################
+xupeng:
+    display_name: "Xupeng Miao"
+    webpage: "https://hsword.github.io"
+    github: hsword
+    role: alum
+    image: /img/people/xupengmiao.jpg
+    bio: "Postdoc, 2024. Assistant Processor at Purdue."
+
+byungsoj:
+    display_name: "Byungsoo Jeon"
+    webpage: "https://madfunmaker.github.io/"
+    github: MadFunMaker
+    role: alum
+    image: /img/people/byungsoj.jpg
+    bio: "Ph.D., 2024. OctoAI."
+
 yuezhao:
     display_name: "Yue Zhao"
     webpage: "https://yzhao062.github.io/"
@@ -289,22 +252,78 @@ ppf:
     image: /img/people/pratikfegade.jpg
     bio: "Ph.D., 2023. Google."
 
-byungsoj:
-    display_name: "Byungsoo Jeon"
-    webpage: "https://madfunmaker.github.io/"
-    github: MadFunMaker
-    role: alum
-    image: /img/people/byungsoj.jpg
-    bio: "Ph.D., 2024. OctoAI."
-
-    
-##################### MS alumni #####################
 nestorqin:
     display_name: "Nestor Qin"
     webpage: "https://neet.coffee"
     role: alum
     image: /img/people/nestorqin.jpg
     bio: "M.S., 2024. NVIDIA."
+
+rickzhou:
+    display_name: "Rick (Xun) Zhou"
+    webpage: "https://www.linkedin.com/in/rick-zhou/"
+    github: rickzx
+    role: alum
+    image: /img/people/rickzhou.jpg
+    bio: "M.S., 2024. Minghong Investment."
+
+kartikkhandelwal:
+    display_name: "Kartik Khandelwal"
+    webpage: "https://www.linkedin.com/in/kartik14/"
+    role: alum
+    image: /img/people/kartik.jpg
+    bio: "M.S., 2024. Mistral AI."
+
+aprilyang:
+    display_name: "April Yang"
+    webpage: "https://www.linkedin.com/in/yutongayang/"
+    role: alum
+    image: /img/people/aprilyang.jpg
+    bio: "M.S., 2024. NVIDIA."
+
+remidelacourt:
+    display_name: "Remi Delacourt"
+    webpage: "https://www.linkedin.com/in/remi-delacourt/"
+    role: alum
+    image: /img/people/remidelacourt.jpg
+    bio: "M.S., 2024. Mistral AI."
+
+aczhu:
+    display_name: "Alan Zhu"
+    webpage: "https://az1326.github.io/"
+    github: az1326
+    role: alum
+    image: /img/people/aczhu.png
+    bio: "B.S, class of 2024. PhD student at UC Berkeley."
+
+ejaasaari:
+    display_name: "Elias Jääsaari"
+    webpage: "https://eliasjaasaari.com"
+    github: ejaasaari
+    role: alum
+    image: /img/people/ejaasaari.jpg
+    bio: "M.S., 2023. PhD student at University of Helsinki."
+
+sbiswas:
+    display_name: "Shreyashri Biswas"
+    webpage: "https://www.linkedin.com/in/shreyab8/"
+    role: alum
+    image: /img/people/sbiswas.jpeg
+    bio: "M.S., 2023. AMD."
+
+sudeepagarwal:
+    display_name: "Sudeep Agarwal"
+    webpage: "https://sudeep.co"
+    role: alum
+    image: /img/people/sudeepagarwal.jpeg
+    bio: "M.S., 2023. Apple."
+
+guoyaoli:
+    display_name: "Guoyao Li"
+    webpage: "https://www.linkedin.com/in/guoyaoli/"
+    role: alum
+    image: /img/people/guoyaoli.jpg
+    bio: "M.S., 2023. LinkedIn."
 
 muyangli:
     display_name: "Muyang Li"
@@ -326,6 +345,24 @@ zeyuwang:
     role: alum
     image: /img/people/zeyuwang.jpg
     bio: "M.S., 2023. Yahoo."
+
+poojan:
+    display_name: "Poojan Palwai"
+    webpage: "https://www.linkedin.com/in/poojan-palwai-79894b190/"
+    github: ppalwai2001
+    role: alum
+    image: /img/people/poojan.jpg
+    bio: "B.S, class of 2023"
+
+yingyeew:
+    display_name: "Rae Wong"
+    webpage: "https://www.linkedin.com/in/raeyy/"
+    github: yingyee0111
+    role: alum
+    image: /img/people/yingyeew.jpeg
+    bio: "B.S, class of 2023"
+
+##################### 2022 #####################
 
 andrewgu:
     display_name: "Andrew Gu"
@@ -377,15 +414,6 @@ xiaoyam:
     image: /img/people/xiaoyam.jpg
     bio: "M.S., 2022."
 
-sheng:
-    display_name: "Sheng Xu"
-    webpage: "https://www.sheng-x.com/"
-    github: shengxu1
-    role: alum
-    image: /img/people/shengx.jpg
-    bio: "M.S, 2020. AWS."
-
-##################### BS alumni #####################
 peiyuanl:
     display_name: "Peiyuan Liao"
     webpage: "https://www.liaopeiyuan.com/"
@@ -394,29 +422,15 @@ peiyuanl:
     image: /img/people/peiyuanl.jpg
     bio: "B.S, class of 2022"
 
-poojan:
-    display_name: "Poojan Palwai"
-    webpage: "https://www.linkedin.com/in/poojan-palwai-79894b190/"
-    github: ppalwai2001
-    role: alum
-    image: /img/people/poojan.jpg
-    bio: "B.S, class of 2023"
+##################### 2020 #####################
 
-yingyeew:
-    display_name: "Rae Wong"
-    webpage: "https://www.linkedin.com/in/raeyy/"
-    github: yingyee0111
+sheng:
+    display_name: "Sheng Xu"
+    webpage: "https://www.sheng-x.com/"
+    github: shengxu1
     role: alum
-    image: /img/people/yingyeew.jpeg
-    bio: "B.S, class of 2023"
-
-aczhu:
-    display_name: "Alan Zhu"
-    webpage: "https://az1326.github.io/"
-    github: az1326
-    role: alum
-    image: /img/people/aczhu.png
-    bio: "B.S, class of 2024. PhD student at UC Berkeley."
+    image: /img/people/shengx.jpg
+    bio: "M.S, 2020. AWS."
 
 # Undergrads
 # Alphabetical order
