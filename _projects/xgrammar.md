@@ -5,7 +5,7 @@ description: |
   Efficient, Flexible and Portable LLM Structured Generation
 
 layout: project
-last-updated: 2024-10-08
+last-updated: 2025-02-11
 ---
 
 XGrammar is an open-source library for efficient, flexible, and portable structured generation. It 
