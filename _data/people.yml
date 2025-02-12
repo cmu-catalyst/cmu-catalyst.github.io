@@ -253,6 +253,13 @@ annanyapr:
     role: masters
     image: /img/people/annanyapr.png
 
+abayyapu:
+    display_name: "Aksara Bayyapu"
+    webpage: "https://www.linkedin.com/in/aksara-bayyapu/"
+    github: abayyapu
+    role: masters
+    image: /img/people/abayyapu.jpg
+
 # Undergraduate
 
 jameszho:
