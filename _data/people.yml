@@ -91,6 +91,13 @@ siyuanc:
     role: grad
     image: /img/people/siyuanc.png
 
+yixindong:
+    display_name: "Yixin Dong"
+    webpage: "https://github.com/ubospica"
+    role: grad
+    github: ubospica
+    image: /img/people/yixindong.png
+
 bohanhou:
     display_name: "Bohan Hou"
     webpage: "https://spectrometerhbh.github.io/"
