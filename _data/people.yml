@@ -203,6 +203,12 @@ zhye:
     role: visitor
     image: /img/people/zhye.jpg
 
+mengshyu:
+    display_name: "Mengshiun Yu"
+    webpage: "https://www.linkedin.com/in/mengshyu/"
+    role: visitor
+    image: /img/people/mengshyu.png
+
 # Masters
 
 charlieruan:
