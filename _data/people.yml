@@ -126,6 +126,13 @@ zikunl:
     role: grad
     image: /img/people/zikunl.jpg
 
+yixuanm:
+    display_name: "Yixuan Mei"
+    webpage: "https://AntonyMei.github.io"
+    github: AntonyMei
+    role: grad
+    image: /img/people/yixuanm.jpg
+
 goliaro:
     display_name: "Gabriele Oliaro"
     webpage: "https://www.gabrieleoliaro.com"
