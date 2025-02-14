@@ -225,6 +225,13 @@ charlieruan:
     role: masters
     image: /img/people/charlieruan.jpg
 
+jiananji:
+    display_name: "Jianan Ji"
+    webpage: "https://northmanpku.github.io/"
+    github: NorthmanPKU
+    role: masters
+    image: /img/people/jiananji.jpg
+
 hugolatendresse:
     display_name: "Hugo Latendresse"
     webpage: "https://www.linkedin.com/in/hugolatendresse/"
