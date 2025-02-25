@@ -350,6 +350,13 @@ aprilyang:
     image: /img/people/aprilyang.jpg
     bio: "M.S., 2024. NVIDIA."
 
+shuhuail:
+    display_name: "Shuhuai Lin"
+    webpage: "https://www.linkedin.com/in/shuhuai-linux/"
+    role: alum
+    image: /img/people/shuhuail.jpg
+    bio: "M.S., 2024. Google."
+
 remidelacourt:
     display_name: "Remi Delacourt"
     webpage: "https://www.linkedin.com/in/remi-delacourt/"
