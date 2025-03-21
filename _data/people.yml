@@ -518,6 +518,13 @@ jinqic:
     role: ugrad
     image: /img/people/jinqic.jpg
 
+ruohang:
+    display_name: "Ruohan Gao"
+    webpage: "https://www.linkedin.com/in/ruohan-chloe-gao-b0a675286/"
+    github: chloeg12
+    role: ugrad
+    image: /img/people/ruohang.jpeg
+
 yiyanz:
     display_name: "Yiyan Zhai"
     webpage: "https://yiyanzhai.github.io/"
