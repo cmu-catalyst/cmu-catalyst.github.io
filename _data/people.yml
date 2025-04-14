@@ -532,6 +532,13 @@ yiyanz:
     role: ugrad
     image: /img/people/yiyanz.jpeg
 
+yuehanh:
+    display_name: "Yuehan (Harry) Hu"
+    webpage: "https://www.linkedin.com/in/harry-hu-8708a1291/"
+    github: harrywhoo
+    role: ugrad
+    image: /img/people/yuehanh.png
+
 alexj:
     display_name: "Alexander Jiang"
     webpage: "https://www.linkedin.com/in/akj2"
