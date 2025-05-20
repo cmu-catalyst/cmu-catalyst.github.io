@@ -275,6 +275,13 @@ abayyapu:
     role: masters
     image: /img/people/abayyapu.jpg
 
+kitao:
+    display_name: "Kit Ao"
+    webpage: "https://www.linkedin.com/in/mankit-ao/"
+    github: AMKCode
+    role: masters
+    image: /img/people/kitao.jpg
+
 # Undergraduate
 
 jameszho:
