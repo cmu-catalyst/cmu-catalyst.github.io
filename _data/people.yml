@@ -17,6 +17,14 @@ tqchen:
     image: /img/people/tqchen.jpg
     bio: "Assistant Professor"
 
+timdettmers:
+    display_name: "Tim Dettmers"
+    webpage: "https://timdettmers.com/about"
+    github: timdettmers
+    role: faculty
+    image: /img/people/timdettmers.png
+    bio: "Assistant Professor"
+
 greg:
     display_name: "Greg Ganger"
     webpage: "http://users.ece.cmu.edu/~ganger/"
