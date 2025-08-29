@@ -2,85 +2,85 @@
 # Alphabetical order last name
 
 beidichen:
-    display_name: "Beidi Chen"
-    webpage: "https://www.andrew.cmu.edu/user/beidic/"
-    github: keroro824
-    role: faculty
-    image: /img/people/beidichen.png
-    bio: "Assistant Professor"
+  display_name: "Beidi Chen"
+  webpage: "https://www.andrew.cmu.edu/user/beidic/"
+  github: keroro824
+  role: faculty
+  image: /img/people/beidichen.png
+  bio: "Assistant Professor"
 
 tqchen:
-    display_name: "Tianqi Chen"
-    webpage: "https://tqchen.com"
-    github: tqchen
-    role: faculty
-    image: /img/people/tqchen.jpg
-    bio: "Assistant Professor"
+  display_name: "Tianqi Chen"
+  webpage: "https://tqchen.com"
+  github: tqchen
+  role: faculty
+  image: /img/people/tqchen.jpg
+  bio: "Assistant Professor"
 
 timdettmers:
-    display_name: "Tim Dettmers"
-    webpage: "https://timdettmers.com/about"
-    github: timdettmers
-    role: faculty
-    image: /img/people/timdettmers.png
-    bio: "Assistant Professor"
+  display_name: "Tim Dettmers"
+  webpage: "https://timdettmers.com/about"
+  github: timdettmers
+  role: faculty
+  image: /img/people/timdettmers.png
+  bio: "Assistant Professor"
 
 greg:
-    display_name: "Greg Ganger"
-    webpage: "http://users.ece.cmu.edu/~ganger/"
-    github: greg
-    role: faculty
-    image: /img/people/greg.jpg
-    bio: "Professor"
+  display_name: "Greg Ganger"
+  webpage: "http://users.ece.cmu.edu/~ganger/"
+  github: greg
+  role: faculty
+  image: /img/people/greg.jpg
+  bio: "Professor"
 
 gibbons:
-    display_name: "Phillip B. Gibbons"
-    webpage: "http://www.cs.cmu.edu/~gibbons/"
-    github: pbgibbons
-    role: faculty
-    image: /img/people/gibbons.jpg
-    bio: "Professor"
+  display_name: "Phillip B. Gibbons"
+  webpage: "http://www.cs.cmu.edu/~gibbons/"
+  github: pbgibbons
+  role: faculty
+  image: /img/people/gibbons.jpg
+  bio: "Professor"
 
 zhihao:
-    display_name: "Zhihao Jia"
-    webpage: "https://cs.cmu.edu/~zhihaoj2/"
-    github: jiazhihao
-    role: faculty
-    image: /img/people/jiazhihao.jpg
-    bio: "Assistant Professor"
+  display_name: "Zhihao Jia"
+  webpage: "https://cs.cmu.edu/~zhihaoj2/"
+  github: jiazhihao
+  role: faculty
+  image: /img/people/jiazhihao.jpg
+  bio: "Assistant Professor"
 
 mowry:
-    display_name: "Todd C. Mowry"
-    webpage: "https://www.toddcmowry.org/"
-    github: tcmowry
-    role: faculty
-    image: /img/people/mowry.jpg
-    bio: "Professor"
+  display_name: "Todd C. Mowry"
+  webpage: "https://www.toddcmowry.org/"
+  github: tcmowry
+  role: faculty
+  image: /img/people/mowry.jpg
+  bio: "Professor"
 
 ameet:
-    display_name: "Ameet Talwalkar"
-    webpage: "https://www.cs.cmu.edu/~atalwalk/"
-    github: atalwalkar
-    role: faculty
-    image: /img/people/ameet.jpg
-    bio: "Assistant Professor"
+  display_name: "Ameet Talwalkar"
+  webpage: "https://www.cs.cmu.edu/~atalwalk/"
+  github: atalwalkar
+  role: faculty
+  image: /img/people/ameet.jpg
+  bio: "Assistant Professor"
 
 ericxing:
-    display_name: "Eric Xing"
-    webpage: "https://www.cs.cmu.edu/~epxing/"
-    github: eric
-    role: faculty
-    image: /img/people/ericxing.jpg
-    bio: "Professor"
+  display_name: "Eric Xing"
+  webpage: "https://www.cs.cmu.edu/~epxing/"
+  github: eric
+  role: faculty
+  image: /img/people/ericxing.jpg
+  bio: "Professor"
 
 # Postdocs/Collaborators
 
 haizhong:
-    display_name: "Haizhong Zheng"
-    webpage: "http://zhenghaizhong.com/"
-    role: faculty
-    image: /img/people/Haizhong.jpeg
-    bio: "Postdoc"
+  display_name: "Haizhong Zheng"
+  webpage: "http://zhenghaizhong.com/"
+  role: faculty
+  image: /img/people/Haizhong.jpeg
+  bio: "Postdoc"
 
 # Alphabetical order
 
@@ -88,213 +88,213 @@ haizhong:
 # Alphabetical order last name
 
 daiyaanarfeen:
-    display_name: "Daiyaan Arfeen"
-    webpage: "https://www.linkedin.com/in/daiyaanarfeen/"
-    role: grad
-    image: /img/people/daiyaanarfeen.jpg
+  display_name: "Daiyaan Arfeen"
+  webpage: "https://www.linkedin.com/in/daiyaanarfeen/"
+  role: grad
+  image: /img/people/daiyaanarfeen.jpg
 
 siyuanc:
-    display_name: "Siyuan Chen"
-    webpage: "https://gulang2019.github.io"
-    role: grad
-    image: /img/people/siyuanc.png
+  display_name: "Siyuan Chen"
+  webpage: "https://gulang2019.github.io"
+  role: grad
+  image: /img/people/siyuanc.png
 
 yixindong:
-    display_name: "Yixin Dong"
-    webpage: "https://github.com/ubospica"
-    role: grad
-    github: ubospica
-    image: /img/people/yixindong.png
+  display_name: "Yixin Dong"
+  webpage: "https://github.com/ubospica"
+  role: grad
+  github: ubospica
+  image: /img/people/yixindong.png
 
 bohanhou:
-    display_name: "Bohan Hou"
-    webpage: "https://spectrometerhbh.github.io/"
-    github: spectrometerHBH
-    role: grad
-    image: /img/people/bohanhou.jpg
+  display_name: "Bohan Hou"
+  webpage: "https://spectrometerhbh.github.io/"
+  github: spectrometerHBH
+  role: grad
+  image: /img/people/bohanhou.jpg
 
 hongyij:
-    display_name: "Hongyi Jin"
-    webpage: "https://www.linkedin.com/in/hongyi-jin-97b943250/"
-    github: jinhongyii
-    role: grad
-    image: /img/people/hongyij.jpg
+  display_name: "Hongyi Jin"
+  webpage: "https://www.linkedin.com/in/hongyi-jin-97b943250/"
+  github: jinhongyii
+  role: grad
+  image: /img/people/hongyij.jpg
 
 ruihangl:
-    display_name: "Ruihang Lai"
-    webpage: "https://ruihanglai.com"
-    github: MasterJH5574
-    role: grad
-    image: /img/people/ruihangl.jpg
+  display_name: "Ruihang Lai"
+  webpage: "https://ruihanglai.com"
+  github: MasterJH5574
+  role: grad
+  image: /img/people/ruihangl.jpg
 
 zikunl:
-    display_name: "Zikun Li"
-    webpage: "https://zikun-li.github.io/"
-    github: zikun-li
-    role: grad
-    image: /img/people/zikunl.jpg
+  display_name: "Zikun Li"
+  webpage: "https://zikun-li.github.io/"
+  github: zikun-li
+  role: grad
+  image: /img/people/zikunl.jpg
 
 yixuanm:
-    display_name: "Yixuan Mei"
-    webpage: "https://AntonyMei.github.io"
-    github: AntonyMei
-    role: grad
-    image: /img/people/yixuanm.jpg
+  display_name: "Yixuan Mei"
+  webpage: "https://AntonyMei.github.io"
+  github: AntonyMei
+  role: grad
+  image: /img/people/yixuanm.jpg
 
 goliaro:
-    display_name: "Gabriele Oliaro"
-    webpage: "https://www.gabrieleoliaro.com"
-    github: gabrieleoliaro
-    role: grad
-    image: /img/people/goliaro.jpeg
+  display_name: "Gabriele Oliaro"
+  webpage: "https://www.gabrieleoliaro.com"
+  github: gabrieleoliaro
+  role: grad
+  image: /img/people/goliaro.jpeg
 
 suhas:
-    display_name: "Suhas Jayaram Subramanya"
-    webpage: "https://suhasjs.github.io/"
-    role: grad
-    image: /img/people/suhas.png
+  display_name: "Suhas Jayaram Subramanya"
+  webpage: "https://suhasjs.github.io/"
+  role: grad
+  image: /img/people/suhas.png
 
 mengdi:
-    display_name: "Mengdi Wu"
-    webpage: "https://wmdi.github.io/"
-    github: wmdi
-    role: grad
-    image: /img/people/mengdiwu.jpg
+  display_name: "Mengdi Wu"
+  webpage: "https://wmdi.github.io/"
+  github: wmdi
+  role: grad
+  image: /img/people/mengdiwu.jpg
 
 mingkuangxu:
-    display_name: "Mingkuan Xu"
-    webpage: "https://mingkuan.taichi.graphics/"
-    github: mingkuanxu
-    role: grad
-    image: /img/people/mingkuanxu.jpg
+  display_name: "Mingkuan Xu"
+  webpage: "https://mingkuan.taichi.graphics/"
+  github: mingkuanxu
+  role: grad
+  image: /img/people/mingkuanxu.jpg
 
 xinyuyang:
-    display_name: "Xinyu Yang"
-    webpage: "https://xinyuyang.me/"
-    github: Hanyuezhuohua
-    role: grad
-    image: /img/people/xinyuyang.jpg
+  display_name: "Xinyu Yang"
+  webpage: "https://xinyuyang.me/"
+  github: Hanyuezhuohua
+  role: grad
+  image: /img/people/xinyuyang.jpg
 
 zhihaozhang:
-    display_name: "Zhihao Zhang"
-    webpage: "https://jackfram.github.io"
-    role: grad
-    image: /img/people/zhihaozhang.jpg
+  display_name: "Zhihao Zhang"
+  webpage: "https://jackfram.github.io"
+  role: grad
+  image: /img/people/zhihaozhang.jpg
 
 yonghaozhuang:
-    display_name: "Yonghao Zhuang"
-    webpage: "https://zyhowell.github.io/"
-    role: grad
-    image: /img/people/yonghaozhuang.jpg
+  display_name: "Yonghao Zhuang"
+  webpage: "https://zyhowell.github.io/"
+  role: grad
+  image: /img/people/yonghaozhuang.jpg
 zhuomingchen:
-    display_name: "Zhuoming Chen"
-    webpage: "https://www.linkedin.com/in/zhuoming-chen-325075234/"
-    role: grad
-    image: /img/people/zhuomingchen.jpg
+  display_name: "Zhuoming Chen"
+  webpage: "https://www.linkedin.com/in/zhuoming-chen-325075234/"
+  role: grad
+  image: /img/people/zhuomingchen.jpg
 
 xinhaocheng:
-    display_name: "Xinhao Cheng"
-    webpage: "https://xinhaoc.github.io/"
-    role: grad
-    image: /img/people/xinhaocheng.jpeg   
-    
+  display_name: "Xinhao Cheng"
+  webpage: "https://xinhaoc.github.io/"
+  role: grad
+  image: /img/people/xinhaocheng.jpeg
+
 yangzhou:
-    display_name: "Yang Zhou"
-    webpage: "https://www.linkedin.com/in/yangzhou2001"
-    role: grad
-    image: /img/people/yang.jpg   
+  display_name: "Yang Zhou"
+  webpage: "https://www.linkedin.com/in/yangzhou2001"
+  role: grad
+  image: /img/people/yang.jpg
 
 ranajoy:
-    display_name: "Ranajoy Sadhukhan"
-    webpage: "https://in.linkedin.com/in/ranajoy-sadhukhan"
-    role: grad
-    image: /img/people/ranajoy.jpg   
+  display_name: "Ranajoy Sadhukhan"
+  webpage: "https://in.linkedin.com/in/ranajoy-sadhukhan"
+  role: grad
+  image: /img/people/ranajoy.jpg
 
 # Visitor
 
 zhye:
-    display_name: "Zihao Ye"
-    webpage: "https://homes.cs.washington.edu/~zhye/"
-    role: visitor
-    image: /img/people/zhye.jpg
+  display_name: "Zihao Ye"
+  webpage: "https://homes.cs.washington.edu/~zhye/"
+  role: visitor
+  image: /img/people/zhye.jpg
 
 mengshyu:
-    display_name: "Mengshiun Yu"
-    webpage: "https://www.linkedin.com/in/mengshyu/"
-    role: visitor
-    image: /img/people/mengshyu.png
+  display_name: "Mengshiun Yu"
+  webpage: "https://www.linkedin.com/in/mengshyu/"
+  role: visitor
+  image: /img/people/mengshyu.png
 
 # Masters
 
 charlieruan:
-    display_name: "Charlie Ruan"
-    webpage: "https://www.linkedin.com/in/charlie-ruan/"
-    github: CharlieFRuan
-    role: masters
-    image: /img/people/charlieruan.jpg
+  display_name: "Charlie Ruan"
+  webpage: "https://www.linkedin.com/in/charlie-ruan/"
+  github: CharlieFRuan
+  role: masters
+  image: /img/people/charlieruan.jpg
 
 jiananji:
-    display_name: "Jianan Ji"
-    webpage: "https://northmanpku.github.io/"
-    github: NorthmanPKU
-    role: masters
-    image: /img/people/jiananji.jpg
+  display_name: "Jianan Ji"
+  webpage: "https://northmanpku.github.io/"
+  github: NorthmanPKU
+  role: masters
+  image: /img/people/jiananji.jpg
 
 hugolatendresse:
-    display_name: "Hugo Latendresse"
-    webpage: "https://www.linkedin.com/in/hugolatendresse/"
-    github: hugolatendresse
-    role: masters
-    image: /img/people/hugolatendresse.jpg
+  display_name: "Hugo Latendresse"
+  webpage: "https://www.linkedin.com/in/hugolatendresse/"
+  github: hugolatendresse
+  role: masters
+  image: /img/people/hugolatendresse.jpg
 
 yingyih:
-    display_name: "Yingyi Huang"
-    webpage: "https://www.linkedin.com/in/avyh/"
-    github: yyihuang
-    role: masters
-    image: /img/people/yingyih.jpg
+  display_name: "Yingyi Huang"
+  webpage: "https://www.linkedin.com/in/avyh/"
+  github: yyihuang
+  role: masters
+  image: /img/people/yingyih.jpg
 
 joshuajhong:
-    display_name: "Joshua Hong"
-    webpage: "https://www.linkedin.com/in/joshua--hong/"
-    github: joshua-j-hong
-    role: masters
-    image: /img/people/joshuajhong.jpg
+  display_name: "Joshua Hong"
+  webpage: "https://www.linkedin.com/in/joshua--hong/"
+  github: joshua-j-hong
+  role: masters
+  image: /img/people/joshuajhong.jpg
 
 annanyapr:
-    display_name: "Annanya Chauhan"
-    webpage: "https://www.linkedin.com/in/annanya-pratap/"
-    github: annanyapr
-    role: masters
-    image: /img/people/annanyapr.png
+  display_name: "Annanya Chauhan"
+  webpage: "https://www.linkedin.com/in/annanya-pratap/"
+  github: annanyapr
+  role: masters
+  image: /img/people/annanyapr.png
 
 abayyapu:
-    display_name: "Aksara Bayyapu"
-    webpage: "https://www.linkedin.com/in/aksara-bayyapu/"
-    github: abayyapu
-    role: masters
-    image: /img/people/abayyapu.jpg
+  display_name: "Aksara Bayyapu"
+  webpage: "https://www.linkedin.com/in/aksara-bayyapu/"
+  github: abayyapu
+  role: masters
+  image: /img/people/abayyapu.jpg
 
 kitao:
-    display_name: "Kit Ao"
-    webpage: "https://www.linkedin.com/in/mankit-ao/"
-    github: AMKCode
-    role: masters
-    image: /img/people/kitao.jpg
+  display_name: "Kit Ao"
+  webpage: "https://www.linkedin.com/in/mankit-ao/"
+  github: AMKCode
+  role: masters
+  image: /img/people/kitao.jpg
 
 # Undergraduate
 
 jameszho:
-    display_name: "Jimmy Zhou"
-    webpage: "https://www.linkedin.com/in/jim-jimmyzhou/"
-    role: ugrad
-    image: /img/people/jameszho.jpg
+  display_name: "Jimmy Zhou"
+  webpage: "https://www.linkedin.com/in/jim-jimmyzhou/"
+  role: ugrad
+  image: /img/people/jameszho.jpg
 nihaljohngeorge:
-    display_name: "Nihal John George"
-    webpage: "https://www.linkedin.com/in/nihal-john-george/"
-    github: nihalgeorge01
-    role: masters
-    image: /img/people/nihaljohngeorge.jpg
+  display_name: "Nihal John George"
+  webpage: "https://www.linkedin.com/in/nihal-john-george/"
+  github: nihalgeorge01
+  role: masters
+  image: /img/people/nihaljohngeorge.jpg
 
 # Alums
 # PhD/postdoc/MS/BS sorted by year.
@@ -305,265 +305,270 @@ nihaljohngeorge:
 # The order is: PhD/postdoc by year; MS by year; BS by year
 
 xupeng:
-    display_name: "Xupeng Miao"
-    webpage: "https://hsword.github.io"
-    github: hsword
-    role: alum
-    image: /img/people/xupengmiao.jpg
-    bio: "Postdoc, 2024. Assistant Processor at Purdue."
+  display_name: "Xupeng Miao"
+  webpage: "https://hsword.github.io"
+  github: hsword
+  role: alum
+  image: /img/people/xupengmiao.jpg
+  bio: "Postdoc, 2024. Assistant Processor at Purdue."
 
 byungsoj:
-    display_name: "Byungsoo Jeon"
-    webpage: "https://madfunmaker.github.io/"
-    github: MadFunMaker
-    role: alum
-    image: /img/people/byungsoj.jpg
-    bio: "Ph.D., 2024. OctoAI."
+  display_name: "Byungsoo Jeon"
+  webpage: "https://madfunmaker.github.io/"
+  github: MadFunMaker
+  role: alum
+  image: /img/people/byungsoj.jpg
+  bio: "Ph.D., 2024. OctoAI."
 
 yuezhao:
-    display_name: "Yue Zhao"
-    webpage: "https://yzhao062.github.io/"
-    github: yzhao062
-    role: alum
-    image: /img/people/yuezhao.jpg
-    bio: "Ph.D., 2023. Assistant Professor at USC."
+  display_name: "Yue Zhao"
+  webpage: "https://yzhao062.github.io/"
+  github: yzhao062
+  role: alum
+  image: /img/people/yuezhao.jpg
+  bio: "Ph.D., 2023. Assistant Professor at USC."
 
 ppf:
-    display_name: "Pratik Fegade"
-    webpage: "https://pratikfegade.github.io/"
-    github: pratikfegade
-    role: alum
-    image: /img/people/pratikfegade.jpg
-    bio: "Ph.D., 2023. Google."
+  display_name: "Pratik Fegade"
+  webpage: "https://pratikfegade.github.io/"
+  github: pratikfegade
+  role: alum
+  image: /img/people/pratikfegade.jpg
+  bio: "Ph.D., 2023. Google."
 
 nestorqin:
-    display_name: "Nestor Qin"
-    webpage: "https://neet.coffee"
-    role: alum
-    image: /img/people/nestorqin.jpg
-    bio: "M.S., 2024. NVIDIA."
+  display_name: "Nestor Qin"
+  webpage: "https://neet.coffee"
+  role: alum
+  image: /img/people/nestorqin.jpg
+  bio: "M.S., 2024. NVIDIA."
 
 rickzhou:
-    display_name: "Rick (Xun) Zhou"
-    webpage: "https://www.linkedin.com/in/rick-zhou/"
-    github: rickzx
-    role: alum
-    image: /img/people/rickzhou.jpg
-    bio: "M.S., 2024. Minghong Investment."
+  display_name: "Rick (Xun) Zhou"
+  webpage: "https://www.linkedin.com/in/rick-zhou/"
+  github: rickzx
+  role: alum
+  image: /img/people/rickzhou.jpg
+  bio: "M.S., 2024. Minghong Investment."
 
 kartikkhandelwal:
-    display_name: "Kartik Khandelwal"
-    webpage: "https://www.linkedin.com/in/kartik14/"
-    role: alum
-    image: /img/people/kartik.jpg
-    bio: "M.S., 2024. Mistral AI."
+  display_name: "Kartik Khandelwal"
+  webpage: "https://www.linkedin.com/in/kartik14/"
+  role: alum
+  image: /img/people/kartik.jpg
+  bio: "M.S., 2024. Mistral AI."
 
 aprilyang:
-    display_name: "April Yang"
-    webpage: "https://www.linkedin.com/in/yutongayang/"
-    role: alum
-    image: /img/people/aprilyang.jpg
-    bio: "M.S., 2024. NVIDIA."
+  display_name: "April Yang"
+  webpage: "https://www.linkedin.com/in/yutongayang/"
+  role: alum
+  image: /img/people/aprilyang.jpg
+  bio: "M.S., 2024. NVIDIA."
 
 shuhuail:
-    display_name: "Shuhuai Lin"
-    webpage: "https://www.linkedin.com/in/shuhuai-linux/"
-    role: alum
-    image: /img/people/shuhuail.jpg
-    bio: "M.S., 2024. Google."
+  display_name: "Shuhuai Lin"
+  webpage: "https://www.linkedin.com/in/shuhuai-linux/"
+  role: alum
+  image: /img/people/shuhuail.jpg
+  bio: "M.S., 2024. Google."
 
 remidelacourt:
-    display_name: "Remi Delacourt"
-    webpage: "https://www.linkedin.com/in/remi-delacourt/"
-    role: alum
-    image: /img/people/remidelacourt.jpg
-    bio: "M.S., 2024. Mistral AI."
+  display_name: "Remi Delacourt"
+  webpage: "https://www.linkedin.com/in/remi-delacourt/"
+  role: alum
+  image: /img/people/remidelacourt.jpg
+  bio: "M.S., 2024. Mistral AI."
 
 aczhu:
-    display_name: "Alan Zhu"
-    webpage: "https://az1326.github.io/"
-    github: az1326
-    role: alum
-    image: /img/people/aczhu.png
-    bio: "B.S, class of 2024. PhD student at UC Berkeley."
+  display_name: "Alan Zhu"
+  webpage: "https://az1326.github.io/"
+  github: az1326
+  role: alum
+  image: /img/people/aczhu.png
+  bio: "B.S, class of 2024. PhD student at UC Berkeley."
 
 ejaasaari:
-    display_name: "Elias Jääsaari"
-    webpage: "https://eliasjaasaari.com"
-    github: ejaasaari
-    role: alum
-    image: /img/people/ejaasaari.jpg
-    bio: "M.S., 2023. PhD student at University of Helsinki."
+  display_name: "Elias Jääsaari"
+  webpage: "https://eliasjaasaari.com"
+  github: ejaasaari
+  role: alum
+  image: /img/people/ejaasaari.jpg
+  bio: "M.S., 2023. PhD student at University of Helsinki."
 
 sbiswas:
-    display_name: "Shreyashri Biswas"
-    webpage: "https://www.linkedin.com/in/shreyab8/"
-    role: alum
-    image: /img/people/sbiswas.jpeg
-    bio: "M.S., 2023. AMD."
+  display_name: "Shreyashri Biswas"
+  webpage: "https://www.linkedin.com/in/shreyab8/"
+  role: alum
+  image: /img/people/sbiswas.jpeg
+  bio: "M.S., 2023. AMD."
 
 sudeepagarwal:
-    display_name: "Sudeep Agarwal"
-    webpage: "https://sudeep.co"
-    role: alum
-    image: /img/people/sudeepagarwal.jpeg
-    bio: "M.S., 2023. Apple."
+  display_name: "Sudeep Agarwal"
+  webpage: "https://sudeep.co"
+  role: alum
+  image: /img/people/sudeepagarwal.jpeg
+  bio: "M.S., 2023. Apple."
 
 guoyaoli:
-    display_name: "Guoyao Li"
-    webpage: "https://www.linkedin.com/in/guoyaoli/"
-    role: alum
-    image: /img/people/guoyaoli.jpg
-    bio: "M.S., 2023. LinkedIn."
+  display_name: "Guoyao Li"
+  webpage: "https://www.linkedin.com/in/guoyaoli/"
+  role: alum
+  image: /img/people/guoyaoli.jpg
+  bio: "M.S., 2023. LinkedIn."
 
 muyangli:
-    display_name: "Muyang Li"
-    webpage: "https://lmxyy.me"
-    role: alum
-    image: /img/people/muyangli.jpeg
-    bio: "M.S., 2023. PhD student at MIT."
+  display_name: "Muyang Li"
+  webpage: "https://lmxyy.me"
+  role: alum
+  image: /img/people/muyangli.jpeg
+  bio: "M.S., 2023. PhD student at MIT."
 
 xiaolixi:
-    display_name: "Tony Xi"
-    webpage: "https://www.linkedin.com/in/xiaoli-xi-201b3a193/"
-    role: alum
-    image: /img/people/xiaolixi.jpg
-    bio: "M.S., 2023. Apple."
+  display_name: "Tony Xi"
+  webpage: "https://www.linkedin.com/in/xiaoli-xi-201b3a193/"
+  role: alum
+  image: /img/people/xiaolixi.jpg
+  bio: "M.S., 2023. Apple."
 
 zeyuwang:
-    display_name: "Zeyu Wang"
-    webpage: "https://www.linkedin.com/in/zeyu-wang-94094a191/"
-    role: alum
-    image: /img/people/zeyuwang.jpg
-    bio: "M.S., 2023. Yahoo."
+  display_name: "Zeyu Wang"
+  webpage: "https://www.linkedin.com/in/zeyu-wang-94094a191/"
+  role: alum
+  image: /img/people/zeyuwang.jpg
+  bio: "M.S., 2023. Yahoo."
 
 poojan:
-    display_name: "Poojan Palwai"
-    webpage: "https://www.linkedin.com/in/poojan-palwai-79894b190/"
-    github: ppalwai2001
-    role: alum
-    image: /img/people/poojan.jpg
-    bio: "B.S, class of 2023"
+  display_name: "Poojan Palwai"
+  webpage: "https://www.linkedin.com/in/poojan-palwai-79894b190/"
+  github: ppalwai2001
+  role: alum
+  image: /img/people/poojan.jpg
+  bio: "B.S, class of 2023"
 
 yingyeew:
-    display_name: "Rae Wong"
-    webpage: "https://www.linkedin.com/in/raeyy/"
-    github: yingyee0111
-    role: alum
-    image: /img/people/yingyeew.jpeg
-    bio: "B.S, class of 2023"
+  display_name: "Rae Wong"
+  webpage: "https://www.linkedin.com/in/raeyy/"
+  github: yingyee0111
+  role: alum
+  image: /img/people/yingyeew.jpeg
+  bio: "B.S, class of 2023"
 
 ##################### 2022 #####################
 
 andrewgu:
-    display_name: "Andrew Gu"
-    webpage: "https://www.linkedin.com/in/~andrew/"
-    role: alum
-    image: /img/people/andrewgu.jpeg
-    bio: "M.S., 2022. Meta."
+  display_name: "Andrew Gu"
+  webpage: "https://www.linkedin.com/in/~andrew/"
+  role: alum
+  image: /img/people/andrewgu.jpeg
+  bio: "M.S., 2022. Meta."
 
 zhongyuchen:
-    display_name: "Zhongyu Chen"
-    webpage: "https://www.linkedin.com/in/zhongyu-chen-cs2020/"
-    role: alum
-    image: /img/people/zhongyuchen.jpg
-    bio: "M.S., 2022. LinkedIn."
+  display_name: "Zhongyu Chen"
+  webpage: "https://www.linkedin.com/in/zhongyu-chen-cs2020/"
+  role: alum
+  image: /img/people/zhongyuchen.jpg
+  bio: "M.S., 2022. LinkedIn."
 
 bowenchen:
-    display_name: "Bowen Chen"
-    webpage: "https://www.linkedin.com/in/bowen-chen-2018/"
-    role: alum
-    image: /img/people/bowenchen.jpg
-    bio: "M.S., 2022. Annapurna Labs."
+  display_name: "Bowen Chen"
+  webpage: "https://www.linkedin.com/in/bowen-chen-2018/"
+  role: alum
+  image: /img/people/bowenchen.jpg
+  bio: "M.S., 2022. Annapurna Labs."
 
 neerajaggarwal:
-    display_name: "Neeraj Aggarwal"
-    webpage: "https://neerajaggarwal.com"
-    role: alum
-    image: /img/people/neerajaggarwal.jpg
-    bio: "M.S., 2022. Applied Intuition."
+  display_name: "Neeraj Aggarwal"
+  webpage: "https://neerajaggarwal.com"
+  role: alum
+  image: /img/people/neerajaggarwal.jpg
+  bio: "M.S., 2022. Applied Intuition."
 
 balam:
-    display_name: "Balamurugan Marimuthu"
-    webpage: "https://balamurugan15.github.io/"
-    role: alum
-    image: /img/people/balam.jpg
-    bio: "M.S., 2022. SambaNova."
+  display_name: "Balamurugan Marimuthu"
+  webpage: "https://balamurugan15.github.io/"
+  role: alum
+  image: /img/people/balam.jpg
+  bio: "M.S., 2022. SambaNova."
 
 yuxuanzheng:
-    display_name: "Eric Zheng"
-    webpage: "https://www.linkedin.com/in/ericzheng1/"
-    role: alum
-    image: /img/people/yuxuanzheng.jpg
-    bio: "M.S., 2022. Citadel."
+  display_name: "Eric Zheng"
+  webpage: "https://www.linkedin.com/in/ericzheng1/"
+  role: alum
+  image: /img/people/yuxuanzheng.jpg
+  bio: "M.S., 2022. Citadel."
 
 xiaoyam:
-    display_name: "Michelle Ma"
-    webpage: "https://www.linkedin.com/in/michelle-ma-a67367157/"
-    github: xiaoyam
-    role: alum
-    image: /img/people/xiaoyam.jpg
-    bio: "M.S., 2022."
+  display_name: "Michelle Ma"
+  webpage: "https://www.linkedin.com/in/michelle-ma-a67367157/"
+  github: xiaoyam
+  role: alum
+  image: /img/people/xiaoyam.jpg
+  bio: "M.S., 2022."
 
 peiyuanl:
-    display_name: "Peiyuan Liao"
-    webpage: "https://www.liaopeiyuan.com/"
-    github: liaopeiyuan
-    role: alum
-    image: /img/people/peiyuanl.jpg
-    bio: "B.S, class of 2022"
+  display_name: "Peiyuan Liao"
+  webpage: "https://www.liaopeiyuan.com/"
+  github: liaopeiyuan
+  role: alum
+  image: /img/people/peiyuanl.jpg
+  bio: "B.S, class of 2022"
 
 ##################### 2020 #####################
 
 sheng:
-    display_name: "Sheng Xu"
-    webpage: "https://www.sheng-x.com/"
-    github: shengxu1
-    role: alum
-    image: /img/people/shengx.jpg
-    bio: "M.S, 2020. AWS."
+  display_name: "Sheng Xu"
+  webpage: "https://www.sheng-x.com/"
+  github: shengxu1
+  role: alum
+  image: /img/people/shengx.jpg
+  bio: "M.S, 2020. AWS."
 
 # Undergrads
 # Alphabetical order
 
 jinqic:
-    display_name: "Jinqi (Kathryn) Chen"
-    webpage: "https://www.linkedin.com/in/jinqi-chen-354172173/"
-    github: Kathryn-cat
-    role: ugrad
-    image: /img/people/jinqic.jpg
+  display_name: "Jinqi (Kathryn) Chen"
+  webpage: "https://www.linkedin.com/in/jinqi-chen-354172173/"
+  github: Kathryn-cat
+  role: ugrad
+  image: /img/people/jinqic.jpg
 
 ruohang:
-    display_name: "Ruohan Gao"
-    webpage: "https://www.linkedin.com/in/ruohan-chloe-gao-b0a675286/"
-    github: chloeg12
-    role: ugrad
-    image: /img/people/ruohang.jpeg
+  display_name: "Ruohan Gao"
+  webpage: "https://www.linkedin.com/in/ruohan-chloe-gao-b0a675286/"
+  github: chloeg12
+  role: ugrad
+  image: /img/people/ruohang.jpeg
+
+songtinw:
+  display_name: "Songting (Michael) Wang"
+  webpage: "https://www.linkedin.com/in/songting-wang/"
+  github: michael_wang
+  role: ugrad
+  image: /img/people/songtinw.jpg
 
 yiyanz:
-    display_name: "Yiyan Zhai"
-    webpage: "https://yiyanzhai.github.io/"
-    github: YiyanZhai
-    role: ugrad
-    image: /img/people/yiyanz.jpeg
+  display_name: "Yiyan Zhai"
+  webpage: "https://yiyanzhai.github.io/"
+  github: YiyanZhai
+  role: ugrad
+  image: /img/people/yiyanz.jpeg
 
 yuehanh:
-    display_name: "Yuehan (Harry) Hu"
-    webpage: "https://www.linkedin.com/in/harry-hu-8708a1291/"
-    github: harrywhoo
-    role: ugrad
-    image: /img/people/yuehanh.png
+  display_name: "Yuehan (Harry) Hu"
+  webpage: "https://www.linkedin.com/in/harry-hu-8708a1291/"
+  github: harrywhoo
+  role: ugrad
+  image: /img/people/yuehanh.png
 
 alexj:
-    display_name: "Alexander Jiang"
-    webpage: "https://www.linkedin.com/in/akj2"
-    github: zanderjiang
-    role: ugrad
-    image: /img/people/alexanderjiang.png
-
+  display_name: "Alexander Jiang"
+  webpage: "https://www.linkedin.com/in/akj2"
+  github: zanderjiang
+  role: ugrad
+  image: /img/people/alexanderjiang.png
 # Undergrad Alums
 # Alphabetical order
-
 
 # ugrad-e:
 #     display_name: "Ugrad E"
