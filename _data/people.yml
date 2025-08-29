@@ -196,19 +196,19 @@ xinhaocheng:
     display_name: "Xinhao Cheng"
     webpage: "https://xinhaoc.github.io/"
     role: grad
-    image: /img/people/xinhaocheng.jpeg
-
+    image: /img/people/xinhaocheng.jpeg   
+    
 yangzhou:
     display_name: "Yang Zhou"
     webpage: "https://www.linkedin.com/in/yangzhou2001"
     role: grad
-    image: /img/people/yang.jpg
+    image: /img/people/yang.jpg   
 
 ranajoy:
     display_name: "Ranajoy Sadhukhan"
     webpage: "https://in.linkedin.com/in/ranajoy-sadhukhan"
     role: grad
-    image: /img/people/ranajoy.jpg
+    image: /img/people/ranajoy.jpg   
 
 # Visitor
 
@@ -567,8 +567,10 @@ alexj:
     github: zanderjiang
     role: ugrad
     image: /img/people/alexanderjiang.png
+
 # Undergrad Alums
 # Alphabetical order
+
 
 # ugrad-e:
 #     display_name: "Ugrad E"
