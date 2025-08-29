@@ -540,6 +540,13 @@ ruohang:
     role: ugrad
     image: /img/people/ruohang.jpeg
 
+songtinw:
+    display_name: "Songting (Michael) Wang"
+    webpage: "https://www.linkedin.com/in/songting-wang/"
+    github: michael_wang
+    role: ugrad
+    image: /img/people/songtinw.jpg
+
 yiyanz:
     display_name: "Yiyan Zhai"
     webpage: "https://yiyanzhai.github.io/"
