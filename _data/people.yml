@@ -210,12 +210,6 @@ ranajoy:
     role: grad
     image: /img/people/ranajoy.jpg   
 
-shushihong:
-    display_name: "Shushi Hong"
-    webpage: "https://www.linkedin.com/in/shushi-hong-15020b2ba"
-    role: grad
-    image: /img/people/shushi.jpg  
-
 # Visitor
 
 zhye:
@@ -287,6 +281,12 @@ kitao:
     github: AMKCode
     role: masters
     image: /img/people/kitao.jpg
+
+shushihong:
+    display_name: "Shushi Hong"
+    webpage: "https://www.linkedin.com/in/shushi-hong-15020b2ba"
+    role: masters
+    image: /img/people/shushi.jpg  
 
 # Undergraduate
 
