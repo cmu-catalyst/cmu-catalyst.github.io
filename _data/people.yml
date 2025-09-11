@@ -288,6 +288,12 @@ shushihong:
     role: masters
     image: /img/people/shushi.jpg  
 
+akaashrp:
+    display_name: "Akaash Raghunathan Parthasarathy"
+    webpage: "https://akaashrp.github.io/"
+    role: masters
+    image: /img/people/akaashrp.png
+
 # Undergraduate
 
 jameszho:
