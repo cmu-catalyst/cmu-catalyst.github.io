@@ -294,6 +294,13 @@ akaashrp:
     role: masters
     image: /img/people/akaashrp.png
 
+eaglelo:
+    display_name: "Eagle Lo"
+    webpage: "https://www.linkedin.com/in/yu-hsiang-eagle-lo/"
+    github: eaglelo
+    role: masters
+    image: /img/people/eaglelo.png
+
 # Undergraduate
 
 jameszho:
