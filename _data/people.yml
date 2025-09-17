@@ -301,6 +301,12 @@ eaglelo:
     role: masters
     image: /img/people/eaglelo.png
 
+licao:
+    display_name: "Li Cao"
+    webpage: "https://l1-ca0.github.io/"
+    role: masters
+    image: /img/people/licao.png
+
 # Undergraduate
 
 jameszho:
