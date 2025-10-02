@@ -99,6 +99,18 @@ siyuanc:
     role: grad
     image: /img/people/siyuanc.png
 
+zhuomingchen:
+    display_name: "Zhuoming Chen"
+    webpage: "https://www.linkedin.com/in/zhuoming-chen-325075234/"
+    role: grad
+    image: /img/people/zhuomingchen.jpg
+
+xinhaocheng:
+    display_name: "Xinhao Cheng"
+    webpage: "https://xinhaoc.github.io/"
+    role: grad
+    image: /img/people/xinhaocheng.jpeg  
+
 yixindong:
     display_name: "Yixin Dong"
     webpage: "https://github.com/ubospica"
@@ -148,6 +160,12 @@ goliaro:
     role: grad
     image: /img/people/goliaro.jpeg
 
+ranajoy:
+    display_name: "Ranajoy Sadhukhan"
+    webpage: "https://in.linkedin.com/in/ranajoy-sadhukhan"
+    role: grad
+    image: /img/people/ranajoy.jpg
+
 suhas:
     display_name: "Suhas Jayaram Subramanya"
     webpage: "https://suhasjs.github.io/"
@@ -181,34 +199,23 @@ zhihaozhang:
     role: grad
     image: /img/people/zhihaozhang.jpg
 
-yonghaozhuang:
-    display_name: "Yonghao Zhuang"
-    webpage: "https://zyhowell.github.io/"
+yiweizhao:
+    display_name: "Yiwei Zhao"
+    webpage: "https://zhaoyw007.github.io/"
     role: grad
-    image: /img/people/yonghaozhuang.jpg
-zhuomingchen:
-    display_name: "Zhuoming Chen"
-    webpage: "https://www.linkedin.com/in/zhuoming-chen-325075234/"
-    role: grad
-    image: /img/people/zhuomingchen.jpg
+    image: /img/people/yiweizhao.jpeg
 
-xinhaocheng:
-    display_name: "Xinhao Cheng"
-    webpage: "https://xinhaoc.github.io/"
-    role: grad
-    image: /img/people/xinhaocheng.jpeg   
-    
 yangzhou:
     display_name: "Yang Zhou"
     webpage: "https://www.linkedin.com/in/yangzhou2001"
     role: grad
     image: /img/people/yang.jpg   
 
-ranajoy:
-    display_name: "Ranajoy Sadhukhan"
-    webpage: "https://in.linkedin.com/in/ranajoy-sadhukhan"
+yonghaozhuang:
+    display_name: "Yonghao Zhuang"
+    webpage: "https://zyhowell.github.io/"
     role: grad
-    image: /img/people/ranajoy.jpg   
+    image: /img/people/yonghaozhuang.jpg 
 
 # Visitor
 
