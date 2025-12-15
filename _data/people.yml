@@ -307,6 +307,13 @@ licao:
     role: masters
     image: /img/people/licao.png
 
+jonghyunchoe:
+    display_name: "Jonghyun Choe"
+    webpage: "https://www.linkedin.com/in/jonghyunchoe/"
+    github: jonghyunchoe 
+    role: masters
+    image: /img/people/jonghyunchoe.jpg
+
 # Undergraduate
 
 jameszho:
