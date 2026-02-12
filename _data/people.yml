@@ -226,6 +226,13 @@ mengshyu:
 
 # Masters
 
+sidharthbabu:
+    display_name: "Sidharth Babu"
+    webpage: "https://sidbabu.com/"
+    github: babusid
+    role: masters
+    image: /img/people/sidharthbabu.jpg
+
 charlieruan:
     display_name: "Charlie Ruan"
     webpage: "https://www.linkedin.com/in/charlie-ruan/"
