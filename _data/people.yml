@@ -322,6 +322,11 @@ jonghyunchoe:
     image: /img/people/jonghyunchoe.jpg
 
 # Undergraduate
+haozhant:
+    display_name: "Haozhan (Tom) Tang"
+    webpage: "https://www.tomtango.net/"
+    role: ugrad
+    image: /img/people/haozhant.png
 
 jameszho:
     display_name: "Jimmy Zhou"
