@@ -127,6 +127,13 @@ ruihangl:
     role: grad
     image: /img/people/ruihangl.jpg
 
+yiran:
+    display_name: "Yiran Lei"
+    webpage: "https://www.yiranlei.com"
+    github: A-Dying-Pig
+    role: grad
+    image: /img/people/YiranLei.jpg
+
 zikunl:
     display_name: "Zikun Li"
     webpage: "https://zikun-li.github.io/"
