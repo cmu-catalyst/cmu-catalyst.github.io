@@ -63,7 +63,14 @@ ameet:
     github: atalwalkar
     role: faculty
     image: /img/people/ameet.jpg
-    bio: "Assistant Professor"
+    bio: "Associate Professor"
+
+rvinayak:
+    display_name: "Rashmi K. Vinayak"
+    webpage: "https://www.cs.cmu.edu/~rvinayak/"
+    role: faculty
+    image: /img/people/rvinayak.jpeg
+    bio: "Associate Professor"
 
 ericxing:
     display_name: "Eric Xing"
