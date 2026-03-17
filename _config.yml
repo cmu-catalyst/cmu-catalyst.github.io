@@ -13,6 +13,8 @@ permalink: /blog/:year/:month/:day/:title.html
 roles:
   - key: faculty
     name: Faculty
+  - key: postdoc
+    name: Postdocs
   # Restore me when we add some staff
   # - key: staff
   #   name: Staff
