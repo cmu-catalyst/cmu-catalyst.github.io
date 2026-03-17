@@ -57,6 +57,13 @@ mowry:
     image: /img/people/mowry.jpg
     bio: "Professor"
 
+dskarlat:
+    display_name: "Dimitrios Skarlatos"
+    webpage: "https://www.cs.cmu.edu/~dskarlat/"
+    role: faculty
+    image: /img/people/dskarlat.jpg
+    bio: "Assistant Professor"
+
 ameet:
     display_name: "Ameet Talwalkar"
     webpage: "https://www.cs.cmu.edu/~atalwalk/"
