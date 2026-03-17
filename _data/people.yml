@@ -245,6 +245,12 @@ mengshyu:
     role: visitor
     image: /img/people/mengshyu.png
 
+muhengli:
+    display_name: "Muheng Li"
+    webpage: "https://www.linkedin.com/in/muhengli/"
+    role: visitor
+    image: /img/people/muhengli.jpg
+
 # Masters
 
 sidharthbabu:
