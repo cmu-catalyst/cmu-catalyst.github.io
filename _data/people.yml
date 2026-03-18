@@ -358,6 +358,13 @@ zixuanc:
     role: masters
     image: /img/people/zixuanc.png
 
+emilyho:
+    display_name: "Emily Ho"
+    webpage: "https://www.linkedin.com/in/ho-emily/"
+    github: emilyho
+    role: masters
+    image: /img/people/emilyho.jpg
+
 # Undergraduate
 haozhant:
     display_name: "Haozhan (Tom) Tang"
