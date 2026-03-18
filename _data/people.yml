@@ -352,6 +352,12 @@ jonghyunchoe:
     role: masters
     image: /img/people/jonghyunchoe.jpg
 
+zixuanc:
+    display_name: "Zixuan Chen"
+    webpage: "https://www.linkedin.com/in/chenzx-isnowfall99/"
+    role: masters
+    image: /img/people/zixuanc.png
+
 # Undergraduate
 haozhant:
     display_name: "Haozhan (Tom) Tang"
