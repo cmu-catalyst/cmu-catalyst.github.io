@@ -230,6 +230,11 @@ ranajoy:
     role: grad
     image: /img/people/ranajoy.jpg   
 
+krishagarwal:
+    display_name: "Krish Agarwal"
+    webpage: "https://krishagarwal.github.io"
+    role: grad
+    image: /img/people/krishagarwal.jpg   
 # Visitor
 
 zhye:
