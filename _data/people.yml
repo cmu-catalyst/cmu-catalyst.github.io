@@ -41,6 +41,13 @@ gibbons:
     image: /img/people/gibbons.jpg
     bio: "Professor"
 
+oliviahsu:
+    display_name: "Olivia Hsu"
+    webpage: "https://weiya711.github.io/"
+    role: faculty
+    image: /img/people/oliviahsu.jpg
+    bio: "Incoming Assistant Professor"
+
 zhihao:
     display_name: "Zhihao Jia"
     webpage: "https://cs.cmu.edu/~zhihaoj2/"
