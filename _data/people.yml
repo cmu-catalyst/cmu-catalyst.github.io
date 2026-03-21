@@ -264,6 +264,13 @@ muhengli:
 
 # Masters
 
+aravtewari:
+    display_name: "Arav Tewari"
+    webpage: "https://linkedin.com/in/arav-tewari"
+    github: aravtewari
+    role: masters
+    image: /img/people/aravtewari.png
+
 sidharthbabu:
     display_name: "Sidharth Babu"
     webpage: "https://sidbabu.com/"
