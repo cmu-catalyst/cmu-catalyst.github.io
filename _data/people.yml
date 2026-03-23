@@ -244,6 +244,13 @@ krishagarwal:
     image: /img/people/krishagarwal.jpg   
 # Visitor
 
+tianyuf:
+    display_name: "Tianyu Fu"
+    webpage: "https://fuvty.thesimple.ink/"
+    github: fuvty
+    role: visitor
+    image: /img/people/tianyuf.jpg
+
 zhye:
     display_name: "Zihao Ye"
     webpage: "https://homes.cs.washington.edu/~zhye/"
