@@ -271,6 +271,13 @@ sidharthbabu:
     role: masters
     image: /img/people/sidharthbabu.jpg
 
+ypatlola:
+    display_name: "Yagneek Patlola"
+    webpage: "https://www.linkedin.com/in/yagneek/"
+    github: yagneekp
+    role: masters
+    image: /img/people/ypatlola.jpg
+
 charlieruan:
     display_name: "Charlie Ruan"
     webpage: "https://www.linkedin.com/in/charlie-ruan/"
