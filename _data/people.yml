@@ -393,6 +393,13 @@ emilyho:
     role: masters
     image: /img/people/emilyho.png
 
+seanhyacinthe:
+    display_name: "Sean Hyacinthe"
+    webpage: "https://www.linkedin.com/in/sean-hyacinthe/"
+    github: shyacint
+    role: masters
+    image: /img/people/seanhyacinthe.jpg
+
 # Undergraduate
 haozhant:
     display_name: "Haozhan (Tom) Tang"
