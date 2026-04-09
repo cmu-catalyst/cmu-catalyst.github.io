@@ -292,6 +292,13 @@ ypatlola:
     role: masters
     image: /img/people/ypatlola.jpg
 
+haojias:
+    display_name: "Haojia (Judy) Sun"
+    webpage: "https://www.linkedin.com/in/haojia-judy-sun/"
+    github: JudySun233
+    role: masters
+    image: /img/people/haojiasun.JPG
+
 charlieruan:
     display_name: "Charlie Ruan"
     webpage: "https://www.linkedin.com/in/charlie-ruan/"
