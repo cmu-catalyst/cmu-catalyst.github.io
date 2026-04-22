@@ -374,12 +374,6 @@ eaglelo:
     role: masters
     image: /img/people/eaglelo.png
 
-licao:
-    display_name: "Li Cao"
-    webpage: "https://l1-ca0.github.io/"
-    role: masters
-    image: /img/people/licao.png
-
 jonghyunchoe:
     display_name: "Jonghyun Choe"
     webpage: "https://www.linkedin.com/in/jonghyunchoe/"
@@ -466,6 +460,13 @@ ppf:
     image: /img/people/pratikfegade.jpg
     bio: "Ph.D., 2023. Google."
 
+licao:
+    display_name: "Li Cao"
+    webpage: "https://l1-ca0.github.io/"
+    role: alum
+    image: /img/people/licao.png
+    bio: "M.S., 2026. NVIDIA."
+    
 nestorqin:
     display_name: "Nestor Qin"
     webpage: "https://neet.coffee"
