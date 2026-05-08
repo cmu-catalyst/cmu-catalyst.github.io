@@ -401,6 +401,12 @@ seanhyacinthe:
     role: masters
     image: /img/people/seanhyacinthe.jpg
 
+haokang:
+    display_name: "Hao Kang"
+    webpage: "https://www.linkedin.com/in/haok1402/"
+    role: masters
+    image: /img/people/haokang.jpeg
+
 # Undergraduate
 haozhant:
     display_name: "Haozhan (Tom) Tang"
