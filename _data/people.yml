@@ -679,10 +679,11 @@ ruohang:
 
 songtinw:
     display_name: "Songting (Michael) Wang"
-    webpage: "https://www.linkedin.com/in/songting-wang/"
+    webpage: "https://stwmichael.github.io/"
     github: michael_wang
-    role: ugrad
+    role: alum
     image: /img/people/songtinw.jpg
+    bio: "M.S., 2026. Annapurna Labs."
 
 yiyanz:
     display_name: "Yiyan Zhai"
