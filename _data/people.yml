@@ -41,6 +41,13 @@ gibbons:
     image: /img/people/gibbons.jpg
     bio: "Professor"
 
+oliviahsu:
+    display_name: "Olivia Hsu"
+    webpage: "https://weiya711.github.io/"
+    role: faculty
+    image: /img/people/oliviahsu.jpg
+    bio: "Incoming Assistant Professor"
+
 zhihao:
     display_name: "Zhihao Jia"
     webpage: "https://cs.cmu.edu/~zhihaoj2/"
@@ -57,13 +64,27 @@ mowry:
     image: /img/people/mowry.jpg
     bio: "Professor"
 
+dskarlat:
+    display_name: "Dimitrios Skarlatos"
+    webpage: "https://www.cs.cmu.edu/~dskarlat/"
+    role: faculty
+    image: /img/people/dskarlat.jpg
+    bio: "Assistant Professor"
+
 ameet:
     display_name: "Ameet Talwalkar"
     webpage: "https://www.cs.cmu.edu/~atalwalk/"
     github: atalwalkar
     role: faculty
     image: /img/people/ameet.jpg
-    bio: "Assistant Professor"
+    bio: "Associate Professor"
+
+rvinayak:
+    display_name: "Rashmi K. Vinayak"
+    webpage: "https://www.cs.cmu.edu/~rvinayak/"
+    role: faculty
+    image: /img/people/rvinayak.jpeg
+    bio: "Associate Professor"
 
 ericxing:
     display_name: "Eric Xing"
@@ -78,9 +99,8 @@ ericxing:
 haizhong:
     display_name: "Haizhong Zheng"
     webpage: "http://zhenghaizhong.com/"
-    role: faculty
+    role: postdoc
     image: /img/people/Haizhong.jpeg
-    bio: "Postdoc"
 
 # Alphabetical order
 
@@ -126,6 +146,13 @@ ruihangl:
     github: MasterJH5574
     role: grad
     image: /img/people/ruihangl.jpg
+
+yiran:
+    display_name: "Yiran Lei"
+    webpage: "https://www.yiranlei.com"
+    github: A-Dying-Pig
+    role: grad
+    image: /img/people/YiranLei.jpg
 
 zikunl:
     display_name: "Zikun Li"
@@ -210,7 +237,19 @@ ranajoy:
     role: grad
     image: /img/people/ranajoy.jpg   
 
+krishagarwal:
+    display_name: "Krish Agarwal"
+    webpage: "https://krishagarwal.github.io"
+    role: grad
+    image: /img/people/krishagarwal.jpg   
 # Visitor
+
+tianyuf:
+    display_name: "Tianyu Fu"
+    webpage: "https://fuvty.thesimple.ink/"
+    github: fuvty
+    role: visitor
+    image: /img/people/tianyuf.jpg
 
 zhye:
     display_name: "Zihao Ye"
@@ -224,7 +263,41 @@ mengshyu:
     role: visitor
     image: /img/people/mengshyu.png
 
+muhengli:
+    display_name: "Muheng Li"
+    webpage: "https://www.linkedin.com/in/muhengli/"
+    role: visitor
+    image: /img/people/muhengli.jpg
+
 # Masters
+
+aravtewari:
+    display_name: "Arav Tewari"
+    webpage: "https://linkedin.com/in/arav-tewari"
+    github: aravtewari
+    role: masters
+    image: /img/people/aravtewari.png
+
+sidharthbabu:
+    display_name: "Sidharth Babu"
+    webpage: "https://sidbabu.com/"
+    github: babusid
+    role: masters
+    image: /img/people/sidharthbabu.jpg
+
+ypatlola:
+    display_name: "Yagneek Patlola"
+    webpage: "https://www.linkedin.com/in/yagneek/"
+    github: yagneekp
+    role: masters
+    image: /img/people/ypatlola.jpg
+
+haojias:
+    display_name: "Haojia (Judy) Sun"
+    webpage: "https://www.linkedin.com/in/haojia-judy-sun/"
+    github: JudySun233
+    role: masters
+    image: /img/people/haojiasun.JPG
 
 charlieruan:
     display_name: "Charlie Ruan"
@@ -282,7 +355,64 @@ kitao:
     role: masters
     image: /img/people/kitao.jpg
 
+shushihong:
+    display_name: "Shushi Hong"
+    webpage: "https://www.linkedin.com/in/shushi-hong-15020b2ba"
+    role: masters
+    image: /img/people/shushi.jpg  
+
+akaashrp:
+    display_name: "Akaash Raghunathan Parthasarathy"
+    webpage: "https://akaashrp.github.io/"
+    role: masters
+    image: /img/people/akaashrp.png
+
+eaglelo:
+    display_name: "Eagle Lo"
+    webpage: "https://www.linkedin.com/in/yu-hsiang-eagle-lo/"
+    github: eaglelo
+    role: masters
+    image: /img/people/eaglelo.png
+
+jonghyunchoe:
+    display_name: "Jonghyun Choe"
+    webpage: "https://www.linkedin.com/in/jonghyunchoe/"
+    github: jonghyunchoe 
+    role: masters
+    image: /img/people/jonghyunchoe.jpg
+
+zixuanc:
+    display_name: "Zixuan Chen"
+    webpage: "https://www.linkedin.com/in/chenzx-isnowfall99/"
+    role: masters
+    image: /img/people/zixuanc.png
+
+emilyho:
+    display_name: "Emily Ho"
+    webpage: "https://www.linkedin.com/in/ho-emily/"
+    github: emilyho
+    role: masters
+    image: /img/people/emilyho.png
+
+seanhyacinthe:
+    display_name: "Sean Hyacinthe"
+    webpage: "https://www.linkedin.com/in/sean-hyacinthe/"
+    github: shyacint
+    role: masters
+    image: /img/people/seanhyacinthe.jpg
+
+haokang:
+    display_name: "Hao Kang"
+    webpage: "https://www.linkedin.com/in/haok1402/"
+    role: masters
+    image: /img/people/haokang.jpeg
+
 # Undergraduate
+haozhant:
+    display_name: "Haozhan (Tom) Tang"
+    webpage: "https://www.tomtango.net/"
+    role: ugrad
+    image: /img/people/haozhant.png
 
 jameszho:
     display_name: "Jimmy Zhou"
@@ -336,6 +466,13 @@ ppf:
     image: /img/people/pratikfegade.jpg
     bio: "Ph.D., 2023. Google."
 
+licao:
+    display_name: "Li Cao"
+    webpage: "https://l1-ca0.github.io/"
+    role: alum
+    image: /img/people/licao.png
+    bio: "M.S., 2026. NVIDIA."
+    
 nestorqin:
     display_name: "Nestor Qin"
     webpage: "https://neet.coffee"
@@ -567,6 +704,14 @@ alexj:
     github: zanderjiang
     role: ugrad
     image: /img/people/alexanderjiang.png
+
+zhanminl:
+    display_name: "Jerry Liang"
+    webpage: "https://www.linkedin.com/in/zhanming-liang-/"
+    github: JerryLiang49
+    role: ugrad
+    image: /img/people/zhanminl.jpg
+
 
 # Undergrad Alums
 # Alphabetical order

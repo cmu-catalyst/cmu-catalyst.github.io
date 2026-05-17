@@ -3,17 +3,18 @@ layout: default
 title: People
 
 picture-role-groups:
-- {roles: [faculty, postdoc, staff], width: 4}
+- {roles: [faculty, staff], width: 4}
 - {roles: [grad], width: 8}
-- {roles: [alum], width: 7}
+- {roles: [postdoc, visitor, ugrad], width: 4}
+- {roles: [alum], width: 8}
 
 no-picture-role-groups:
-- {roles: [visitor, collab, ugrad, ugrad-alum], width: 5}
+- {roles: [collab, ugrad-alum], width: 5}
 ---
 
 <section class="people row justify-content-between">
     {% for role-group in page.picture-role-groups %}
-        <div class="col-md-{{ role-group.width }}">
+        <div class="col-md-{{ role-group.width }}{% if role-group.offset %} offset-md-{{ role-group.offset }}{% endif %}">
             {% for role in role-group.roles %}
                 {% include role-people.html role=role image=true %}
             {% endfor %}
