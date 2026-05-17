@@ -269,6 +269,13 @@ muhengli:
     role: visitor
     image: /img/people/muhengli.jpg
 
+linzhangli:
+    display_name: "Linzhang Li"
+    webpage: "https://linzhangli.top/"
+    github: Seven-Streams
+    role: visitor
+    image: /img/people/linzhangli.jpg
+
 # Masters
 
 aravtewari:
