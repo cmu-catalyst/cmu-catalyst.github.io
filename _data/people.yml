@@ -443,10 +443,27 @@ nihaljohngeorge:
 # Alums
 # PhD/postdoc/MS/BS sorted by year.
 
-##################### 2024 #####################
+##################### 2026 #####################
 
 # Alums
 # The order is: PhD/postdoc by year; MS by year; BS by year
+
+licao:
+    display_name: "Li Cao"
+    webpage: "https://l1-ca0.github.io/"
+    role: alum
+    image: /img/people/licao.png
+    bio: "M.S., 2026. NVIDIA."
+
+songtinw:
+    display_name: "Songting (Michael) Wang"
+    webpage: "https://stwmichael.github.io/"
+    github: michael_wang
+    role: alum
+    image: /img/people/songtinw.jpg
+    bio: "M.S., 2026. Annapurna Labs."
+
+##################### 2024 #####################
 
 xupeng:
     display_name: "Xupeng Miao"
@@ -480,13 +497,6 @@ ppf:
     image: /img/people/pratikfegade.jpg
     bio: "Ph.D., 2023. Google."
 
-licao:
-    display_name: "Li Cao"
-    webpage: "https://l1-ca0.github.io/"
-    role: alum
-    image: /img/people/licao.png
-    bio: "M.S., 2026. NVIDIA."
-    
 nestorqin:
     display_name: "Nestor Qin"
     webpage: "https://neet.coffee"
@@ -690,13 +700,6 @@ ruohang:
     github: chloeg12
     role: ugrad
     image: /img/people/ruohang.jpeg
-
-songtinw:
-    display_name: "Songting (Michael) Wang"
-    webpage: "https://www.linkedin.com/in/songting-wang/"
-    github: michael_wang
-    role: ugrad
-    image: /img/people/songtinw.jpg
 
 yiyanz:
     display_name: "Yiyan Zhai"
