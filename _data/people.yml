@@ -140,6 +140,12 @@ hongyij:
     role: grad
     image: /img/people/hongyij.jpg
 
+haokang:
+    display_name: "Hao Kang"
+    webpage: "https://haokang.me/"
+    role: grad
+    image: /img/people/haokang.jpeg
+
 ruihangl:
     display_name: "Ruihang Lai"
     webpage: "https://ruihanglai.com"
@@ -414,12 +420,6 @@ seanhyacinthe:
     github: shyacint
     role: masters
     image: /img/people/seanhyacinthe.jpg
-
-haokang:
-    display_name: "Hao Kang"
-    webpage: "https://www.linkedin.com/in/haok1402/"
-    role: masters
-    image: /img/people/haokang.jpeg
 
 # Undergraduate
 haozhant:
