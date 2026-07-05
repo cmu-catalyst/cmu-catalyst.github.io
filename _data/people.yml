@@ -291,6 +291,13 @@ letianr:
 
 # Masters
 
+gauravshah:
+    display_name: "Gaurav Shah"
+    webpage: "https://gaurav-shah05.github.io/"
+    github: gaurav-shah05
+    role: masters
+    image: /img/people/gaurav.jpg
+
 aravtewari:
     display_name: "Arav Tewari"
     webpage: "https://linkedin.com/in/arav-tewari"
