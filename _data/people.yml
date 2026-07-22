@@ -107,6 +107,12 @@ haizhong:
 # Grads
 # Alphabetical order last name
 
+krishagarwal:
+    display_name: "Krish Agarwal"
+    webpage: "https://krishagarwal.github.io"
+    role: grad
+    image: /img/people/krishagarwal.jpg
+
 daiyaanarfeen:
     display_name: "Daiyaan Arfeen"
     webpage: "https://www.linkedin.com/in/daiyaanarfeen/"
@@ -118,6 +124,18 @@ siyuanc:
     webpage: "https://gulang2019.github.io"
     role: grad
     image: /img/people/siyuanc.png
+
+zhuomingchen:
+    display_name: "Zhuoming Chen"
+    webpage: "https://www.linkedin.com/in/zhuoming-chen-325075234/"
+    role: grad
+    image: /img/people/zhuomingchen.jpg
+
+xinhaocheng:
+    display_name: "Xinhao Cheng"
+    webpage: "https://xinhaoc.github.io/"
+    role: grad
+    image: /img/people/xinhaocheng.jpeg
 
 yixindong:
     display_name: "Yixin Dong"
@@ -181,11 +199,23 @@ goliaro:
     role: grad
     image: /img/people/goliaro.jpeg
 
+ranajoy:
+    display_name: "Ranajoy Sadhukhan"
+    webpage: "https://in.linkedin.com/in/ranajoy-sadhukhan"
+    role: grad
+    image: /img/people/ranajoy.jpg
+
 suhas:
     display_name: "Suhas Jayaram Subramanya"
     webpage: "https://suhasjs.github.io/"
     role: grad
     image: /img/people/suhas.png
+
+evan:
+    display_name: "Evan Williams"
+    webpage: "https://evanwilliams.pl/"
+    role: grad
+    image: /img/people/evanwilliams.jpg
 
 mengdi:
     display_name: "Mengdi Wu"
@@ -214,40 +244,18 @@ zhihaozhang:
     role: grad
     image: /img/people/zhihaozhang.jpg
 
+yangzhou:
+    display_name: "Yang Zhou"
+    webpage: "https://www.linkedin.com/in/yangzhou2001"
+    role: grad
+    image: /img/people/yang.jpg
+
 yonghaozhuang:
     display_name: "Yonghao Zhuang"
     webpage: "https://zyhowell.github.io/"
     role: grad
     image: /img/people/yonghaozhuang.jpg
-zhuomingchen:
-    display_name: "Zhuoming Chen"
-    webpage: "https://www.linkedin.com/in/zhuoming-chen-325075234/"
-    role: grad
-    image: /img/people/zhuomingchen.jpg
 
-xinhaocheng:
-    display_name: "Xinhao Cheng"
-    webpage: "https://xinhaoc.github.io/"
-    role: grad
-    image: /img/people/xinhaocheng.jpeg   
-    
-yangzhou:
-    display_name: "Yang Zhou"
-    webpage: "https://www.linkedin.com/in/yangzhou2001"
-    role: grad
-    image: /img/people/yang.jpg   
-
-ranajoy:
-    display_name: "Ranajoy Sadhukhan"
-    webpage: "https://in.linkedin.com/in/ranajoy-sadhukhan"
-    role: grad
-    image: /img/people/ranajoy.jpg   
-
-krishagarwal:
-    display_name: "Krish Agarwal"
-    webpage: "https://krishagarwal.github.io"
-    role: grad
-    image: /img/people/krishagarwal.jpg   
 # Visitor
 
 tianyuf:
