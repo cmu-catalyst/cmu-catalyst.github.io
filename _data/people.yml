@@ -144,6 +144,13 @@ yixindong:
     github: ubospica
     image: /img/people/yixindong.png
 
+helalaou:
+    display_name: "Hamza El Alaoui"
+    webpage: "https://www.cs.cmu.edu/~helalaou/"
+    github: helalaou
+    role: grad
+    image: /img/people/helalaou.png
+
 bohanhou:
     display_name: "Bohan Hou"
     webpage: "https://spectrometerhbh.github.io/"
