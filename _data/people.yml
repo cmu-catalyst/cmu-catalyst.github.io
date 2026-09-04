@@ -299,6 +299,13 @@ letianr:
 
 # Masters
 
+adityaramesh:
+    display_name: "Aditya Ramesh"
+    webpage: "https://aramesh10.github.io/"
+    github: aramesh10
+    role: masters
+    image: /img/people/adityaramesh.jpg
+
 gauravshah:
     display_name: "Gaurav Shah"
     webpage: "https://gaurav-shah05.github.io/"
