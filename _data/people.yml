@@ -436,6 +436,10 @@ seanhyacinthe:
     role: masters
     image: /img/people/seanhyacinthe.jpg
 
+leminzhang:
+    display_name: "Lemin Zhang"
+    role: masters
+
 # Undergraduate
 haozhant:
     display_name: "Haozhan (Tom) Tang"
