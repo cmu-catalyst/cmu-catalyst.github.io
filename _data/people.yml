@@ -224,6 +224,13 @@ mengdi:
     role: grad
     image: /img/people/mengdiwu.jpg
 
+shanlixing:
+    display_name: "Shanli Xing"
+    webpage: "https://xsl.ing/"
+    github: xslingcn
+    role: grad
+    image: /img/people/shanlixing.png
+
 mingkuangxu:
     display_name: "Mingkuan Xu"
     webpage: "https://mingkuan.taichi.graphics/"
