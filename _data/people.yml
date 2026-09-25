@@ -455,6 +455,13 @@ nihaljohngeorge:
     role: masters
     image: /img/people/nihaljohngeorge.jpg
 
+guanzheh:
+    display_name: "Guanzhe Huang"
+    webpage: "https://www.linkedin.com/in/guanzhe-huang/"
+    github: guanzheh
+    role: masters
+    image: /img/people/guanzheh.png
+
 # Alums
 # PhD/postdoc/MS/BS sorted by year.
 
