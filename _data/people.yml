@@ -297,6 +297,12 @@ letianr:
     role: visitor
     image: /img/people/letianr.jpg
 
+godaitakashina:
+    display_name: "Godai Takashina"
+    webpage: "https://www.linkedin.com/in/godai-takashina-673521217/"
+    role: visitor
+    image: /img/people/godaitakashina.jpg
+
 # Masters
 
 gauravshah:
