@@ -347,6 +347,12 @@ haojias:
     role: masters
     image: /img/people/haojiasun.JPG
 
+yueyin:
+    display_name: "Yue (Melody) Yin"
+    webpage: "https://www.linkedin.com/in/yue-yin-ucsd2025/"
+    role: masters
+    image: /img/people/yueyin.png
+
 charlieruan:
     display_name: "Charlie Ruan"
     webpage: "https://www.linkedin.com/in/charlie-ruan/"
