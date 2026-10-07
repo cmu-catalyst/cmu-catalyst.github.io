@@ -462,6 +462,13 @@ lingao:
     role: masters
     image: /img/people/lingao.jpg
 
+zichuwu:
+    display_name: "Zichu Wu"
+    webpage: "https://www.linkedin.com/in/zichu-wu/"
+    github: kldxbjz
+    role: masters
+    image: /img/people/zichuwu.jpeg
+
 # Undergraduate
 haozhant:
     display_name: "Haozhan (Tom) Tang"
