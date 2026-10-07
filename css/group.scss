@@ -114,6 +114,11 @@ section {
     object-fit: cover; // makes sure it's cropped
 }
 
+// Keep the head and shoulders in view for this portrait.
+.profile[src$="/img/people/zichuwu.jpeg"] {
+    object-position: center top;
+}
+
 .noprofile {
     circle {
         fill: $light-gray;
