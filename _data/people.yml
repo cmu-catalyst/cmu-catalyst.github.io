@@ -245,6 +245,13 @@ xinyuyang:
     role: grad
     image: /img/people/xinyuyang.jpg
 
+yiyanz:
+    display_name: "Yiyan Zhai"
+    webpage: "https://yiyanzhai.github.io/"
+    github: YiyanZhai
+    role: grad
+    image: /img/people/yiyanz.jpeg
+
 zhihaozhang:
     display_name: "Zhihao Zhang"
     webpage: "https://jackfram.github.io"
@@ -748,13 +755,6 @@ ruohang:
     github: chloeg12
     role: ugrad
     image: /img/people/ruohang.jpeg
-
-yiyanz:
-    display_name: "Yiyan Zhai"
-    webpage: "https://yiyanzhai.github.io/"
-    github: YiyanZhai
-    role: ugrad
-    image: /img/people/yiyanz.jpeg
 
 yuehanh:
     display_name: "Yuehan (Harry) Hu"
